@@ -1,0 +1,19 @@
+
+E
+java:S1604"(Make this anonymous inner class a lambda(¼×¨™8·­ö¸/
+D
+java:S1444"'Make this "public static i" field final(€ˆé˜8·­ö¸/
+J
+java:S1604*"(Make this anonymous inner class a lambda(ôâ…Æşÿÿÿÿ8·­ö¸/
+c
+java:S21425"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8·­ö¸/
+]
+java:S2274 ";Remove this call to "await" or move it into a "while" loop.(×œªìşÿÿÿÿ8ÄÖ‚¹/
+]
+java:S22743";Remove this call to "await" or move it into a "while" loop.(×œªìşÿÿÿÿ8ÄÖ‚¹/
+j
+java:S1104"MMake i a static final constant or non-public and provide accessors if needed.(€ˆé˜8·­ö¸/
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(ñµÎ8·­ö¸/
+c
+java:S2142""FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8·­ö¸/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¶…ş¼8·­ö¸/

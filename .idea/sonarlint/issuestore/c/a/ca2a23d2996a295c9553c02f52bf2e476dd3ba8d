@@ -1,0 +1,90 @@
+
+`
+java:S3358ß
+"DExtract this nested ternary operation into an independent statement.(Ë‚”Ùøÿÿÿÿ
+e
+java:S2272é
+"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ÓÔç
+V
+java:S1161ï
+":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+X
+java:S2184•"ACast one of the operands of this addition operation to a "float".(³Ø¨Ã
+W
+java:S2184¨	"@Cast one of the operands of this integer division to a "double".(†ì™ˆ
+O
+java:S1197Ğ"8Move the array designator from the variable to the type.(À»Èº
+O
+java:S1197ë"8Move the array designator from the variable to the type.(À»Èº
+{
+java:S1845¡
+"dRename field "VALUES" to prevent any misunderstanding/clash with field "values" defined on line 623.(Õ½¯•
+a
+java:S2147´"ECombine this catch with the one at line 818, which has the same body.(Ü–›×øÿÿÿÿ
+O
+java:S1197Ø"8Move the array designator from the variable to the type.(À»Èº
+O
+java:S1197“"8Move the array designator from the variable to the type.(À»Èº
+Y
+java:S1128"CRemove this unused import 'java.util.concurrent.ThreadLocalRandom'.(¨ÏÙî
+D
+java:S1185³"(Remove this method to simply inherit it.(†š°‚ùÿÿÿÿ
+O
+java:S1197ƒ"8Move the array designator from the variable to the type.(À»Èº
+O
+java:S1197ë"8Move the array designator from the variable to the type.(À»Èº
+K
+java:S1191!"5Use classes from the Java API instead of Sun classes.(Àãé
+s
+java:S3077î"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(şÜÉªÿÿÿÿÿ
+O
+java:S1197ª"8Move the array designator from the variable to the type.(À»Èº
+s	java:S127›"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯…ƒŒıÿÿÿÿ
+`
+java:S2583ò"DChange this condition so that it does not always evaluate to "false"(Ñë™ûÿÿÿÿ
+]
+java:S2184À"ACast one of the operands of this addition operation to a "float".(›§Œ…üÿÿÿÿ
+O
+java:S1197ë"8Move the array designator from the variable to the type.(À»Èº
+O
+java:S1197“"8Move the array designator from the variable to the type.(À»Èº
+O
+java:S1197 "8Move the array designator from the variable to the type.(À»Èº
+i
+java:S2975õ	"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(­æğ
+O
+java:S1197Ï"8Move the array designator from the variable to the type.(À»Èº
+r
+java:S1149£"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(üÒ§Áùÿÿÿÿ
+j
+java:S2975¡"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(˜øãô
+B
+java:S1150«
+"+Implement Iterator rather than Enumeration.(¯‹Ä©
+W
+java:S2184µ	"ACast one of the operands of this addition operation to a "float".(ı×3
+V
+java:S1161Š":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ
+i
+java:S3776š"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ï˜”–
+O
+java:S1197Ã"8Move the array designator from the variable to the type.(À»Èº
+V
+java:S1161‡":Add the "@Override" annotation above this method signature(­­¬Îùÿÿÿÿ
+^
+java:S1182õ	"HUse super.clone() to create and seed the cloned instance to be returned.(­æğ
+O
+java:S1197Ã"8Move the array designator from the variable to the type.(À»Èº
+W
+java:S1117ù
+";Rename "index" which hides the field declared at line 1325.(·Ö¶¤üÿÿÿÿ
+`
+java:S2583‡"DChange this condition so that it does not always evaluate to "false"(Ñë™ûÿÿÿÿ
+n
+java:S3077í"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(†ßéÒ
+n
+java:S3077ï"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(˜ñÏ
+O
+java:S1197©"8Move the array designator from the variable to the type.(À»Èº
+O
+java:S1197§"8Move the array designator from the variable to the type.(À»Èº

@@ -1,0 +1,151 @@
+
+K
+java:S3740…"/Provide the parametrized type for this generic.(µÂ ­ÿÿÿÿÿ
+F
+java:S3740†"/Provide the parametrized type for this generic.(—­øì
+K
+java:S3740¬"/Provide the parametrized type for this generic.(ó½ôìùÿÿÿÿ
+K
+java:S3740é"/Provide the parametrized type for this generic.(«¤éÅúÿÿÿÿ
+F
+java:S3740í"/Provide the parametrized type for this generic.(ôşºú
+F
+java:S3740ñ"/Provide the parametrized type for this generic.(¼–¯Ê
+K
+java:S3740œ"/Provide the parametrized type for this generic.(šÕûÿÿÿÿ
+K
+java:S3740¤"/Provide the parametrized type for this generic.(İôÿÿÿÿÿ
+K
+java:S3740¤"/Provide the parametrized type for this generic.(İôÿÿÿÿÿ
+F
+java:S3740Å"/Provide the parametrized type for this generic.(Ş¹¤ó
+F
+java:S3740Ì"/Provide the parametrized type for this generic.(»¬†¨
+K
+java:S3740ß"/Provide the parametrized type for this generic.(ÆşÃÿÿÿÿÿ
+K
+java:S3740â"/Provide the parametrized type for this generic.(œğê‰ûÿÿÿÿ
+K
+java:S3740è"/Provide the parametrized type for this generic.(‹½–Ëÿÿÿÿÿ
+F
+java:S3740ü"/Provide the parametrized type for this generic.(ø•úÑ
+F
+java:S3740¥"/Provide the parametrized type for this generic.(™”¶ô
+F
+java:S3740¬"/Provide the parametrized type for this generic.(´Æ‘´
+F
+java:S3740²"/Provide the parametrized type for this generic.(–ëıƒ
+F
+java:S3740·"/Provide the parametrized type for this generic.(ø•úÑ
+E
+java:S3740º"/Provide the parametrized type for this generic.(çíî/
+K
+java:S3740½"/Provide the parametrized type for this generic.(„˜Û¤úÿÿÿÿ
+K
+java:S3740â"/Provide the parametrized type for this generic.(şª¸ìıÿÿÿÿ
+K
+java:S3740å"/Provide the parametrized type for this generic.(Ûêµíøÿÿÿÿ
+K
+java:S3740ç"/Provide the parametrized type for this generic.(„ğ©öøÿÿÿÿ
+K
+java:S3740ì"/Provide the parametrized type for this generic.(‰—Ïúÿÿÿÿ
+F
+java:S3740„"/Provide the parametrized type for this generic.(ôÕıï
+E
+java:S3740…"/Provide the parametrized type for this generic.(Û¬®*
+F
+java:S3740Œ"/Provide the parametrized type for this generic.(´Æ‘´
+F
+java:S3740‘"/Provide the parametrized type for this generic.(–ëıƒ
+F
+java:S3740•"/Provide the parametrized type for this generic.(ø•úÑ
+E
+java:S3740˜"/Provide the parametrized type for this generic.(çíî/
+K
+java:S3740›"/Provide the parametrized type for this generic.(„˜Û¤úÿÿÿÿ
+K
+java:S3740»"/Provide the parametrized type for this generic.(áˆ¸½úÿÿÿÿ
+F
+java:S3740¼"/Provide the parametrized type for this generic.(²¼±ª
+F
+java:S3740Ø"/Provide the parametrized type for this generic.(Ûí¶Ş
+F
+java:S3740ö"/Provide the parametrized type for this generic.(¡â“Ï
+K
+java:S3740®"/Provide the parametrized type for this generic.(ÍÈ ûÿÿÿÿ
+K
+java:S3740Ã"/Provide the parametrized type for this generic.(„¯Òêÿÿÿÿÿ
+F
+java:S3740ë"/Provide the parametrized type for this generic.(–ÉĞí
+F
+java:S3740¯"/Provide the parametrized type for this generic.(–ÉĞí
+K
+java:S3740¹"/Provide the parametrized type for this generic.(€Û©ıÿÿÿÿ
+K
+java:S3740Ù"/Provide the parametrized type for this generic.(€Û©ıÿÿÿÿ
+E
+java:S3740À"/Provide the parametrized type for this generic.(Èä„~
+K
+java:S3740ì"/Provide the parametrized type for this generic.(ŸºËãüÿÿÿÿ
+F
+java:S3740Š	"/Provide the parametrized type for this generic.(İÿ³ª
+F
+java:S3740	"/Provide the parametrized type for this generic.(–ëıƒ
+F
+java:S3740×	"/Provide the parametrized type for this generic.(ºí²ƒ
+K
+java:S3740è	"/Provide the parametrized type for this generic.(¦€©–üÿÿÿÿ
+d
+java:S1192°"MDefine a constant instead of duplicating this literal "serviceClass" 4 times.(¸¥˜Ö
+K
+java:S1128""0Remove this unused import 'java.util.Map.Entry'.(±şê¾úÿÿÿÿ
+E
+java:S1121Å".Extract the assignment out of this expression.(¬Ô»’
+E
+java:S1121£".Extract the assignment out of this expression.(¬Ô»’
+O
+java:S2675Ç	"3Remove the "synchronized" keyword from this method.(úÛ¢·üÿÿÿÿ
+V
+java:S1161‚":Add the "@Override" annotation above this method signature(·òşÿÿÿÿ
+e
+java:S3551‚"IMake this method "synchronized" to match the parent class implementation.(·òşÿÿÿÿ
+‰
+java:S1130Å"rRemove the declaration of thrown exception 'java.lang.UnsupportedOperationException' which is a runtime exception.(Ş¹¤ó
+Z
+java:S1117ß">Rename "services" which hides the field declared at line 1239.(ÆşÃÿÿÿÿÿ
+U
+java:S1117ü">Rename "services" which hides the field declared at line 1239.(ø•úÑ
+i
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(™”¶ô
+U
+java:S1117·">Rename "services" which hides the field declared at line 1239.(ø•úÑ
+Z
+java:S1117ç">Rename "services" which hides the field declared at line 1239.(„ğ©öøÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ø¦ÍK
+U
+java:S1117•">Rename "services" which hides the field declared at line 1239.(ø•úÑ
+Q
+java:S1161Ê":Add the "@Override" annotation above this method signature(·óğÌ
+H
+java:S1948ê"1Make "serviceProvider" transient or serializable.(Ãƒ¬ì
+@
+java:S1172Ø")Remove this unused method parameter "sc".(Ûí¶Ş
+2
+java:S3626‡"Remove this redundant jump.(ûÁİ…
+2
+java:S3626–"Remove this redundant jump.(ûÁİ…
+?
+java:S1125‡")Remove the literal "false" boolean value.(Ò²£_
+n
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ä—¹ûÿÿÿÿ
+V
+java:S1161ƒ":Add the "@Override" annotation above this method signature(ÿ³Üîùÿÿÿÿ
+V
+java:S1161’":Add the "@Override" annotation above this method signature(Ôš¢Ñüÿÿÿÿ
+V
+java:S1161¬":Add the "@Override" annotation above this method signature(Èª´ªÿÿÿÿÿ
+Q
+java:S1161‚	":Add the "@Override" annotation above this method signature(—¯Î¾
+V
+java:S1161­	":Add the "@Override" annotation above this method signature(‘Ÿáüÿÿÿÿ

@@ -1,0 +1,32 @@
+
+c
+java:S1192"JDefine a constant instead of duplicating this literal "not owner" 3 times.(¶¼‰õûÿÿÿÿ
+S
+java:S1161":Add the "@Override" annotation above this method signature(ÊÇ¼…üÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(æ´®´
+f
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(«¿¿ø
+O	java:S125"<This block of commented-out lines of code should be removed.(æ´®´
+Y	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‡Êà–
+M
+java:S1161":Add the "@Override" annotation above this method signature(•Ü)
+I
+java:S1191"5Use classes from the Java API instead of Sun classes.(¾¯Œ÷
+Y	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‡Êà–
+Y	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‡Êà–
+p
+java:S1192"\Define a constant instead of duplicating this literal "Maximum lock count exceeded" 4 times.(‡Êà–
+Y	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Âðð
+N
+java:S1161":Add the "@Override" annotation above this method signature(Ÿ‘ê»
+f
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ÿ‘ê»
+f
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(Èßù¯
+N
+java:S1161":Add the "@Override" annotation above this method signature(¯þš×
+S
+java:S1161":Add the "@Override" annotation above this method signature(®ñ›úýÿÿÿÿ
+N
+java:S1161":Add the "@Override" annotation above this method signature(š´™ù
+Y	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‡Êà–

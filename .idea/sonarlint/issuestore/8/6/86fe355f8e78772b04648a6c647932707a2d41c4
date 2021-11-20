@@ -1,0 +1,16 @@
+
+f
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ä˜Ñç
+M
+java:S1117"9Rename "lock" which hides the field declared at line 157.(º·úã
+M
+java:S1117"9Rename "lock" which hides the field declared at line 157.(º·úã
+M
+java:S1117"9Rename "lock" which hides the field declared at line 157.(º·úã
+^	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÎúòÑÿÿÿÿÿ
+P
+java:S2589"7Remove this expression which always evaluates to "true"(òØ¯©üÿÿÿÿ
+M
+java:S1117"9Rename "lock" which hides the field declared at line 157.(º·úã
+]
+java:S2583"DChange this condition so that it does not always evaluate to "false"(ÂˆŽËùÿÿÿÿ

@@ -1,0 +1,46 @@
+
+?
+java:S1452"&Remove usage of generic wildcard type.(âäıÿÿÿÿ
+9
+java:S1659" Declare "lo" on a separate line.(Ö£¶ìÿÿÿÿÿ
+9
+java:S1659" Declare "mc" on a separate line.(€åä°ıÿÿÿÿ
+3
+java:S1659"Declare "a" on a separate line.(§ÿ¯Ú
+G
+java:S1121".Extract the assignment out of this expression.(ÓÄ’·ûÿÿÿÿ
+B
+java:S1121".Extract the assignment out of this expression.(†Ú„Ğ
+q	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ÖÖ––üÿÿÿÿ
+S
+java:S1161":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+R
+java:S1117"9Rename "size" which hides the field declared at line 103.(°¦¿‹ùÿÿÿÿ
+I
+java:S1191"5Use classes from the Java API instead of Sun classes.(Àãé
+G
+java:S1121".Extract the assignment out of this expression.(ÓÄ’·ûÿÿÿÿ
+r
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†ÆÄÄøÿÿÿÿ
+9
+java:S1659" Declare "hi" on a separate line.(€åä°ıÿÿÿÿ
+S
+java:S1161":Add the "@Override" annotation above this method signature(ÓÎëùÿÿÿÿ
+r
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ï›¢ÿùÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(ì¾ª’ıÿÿÿÿ
+e
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ºˆ¡
+G
+java:S1121".Extract the assignment out of this expression.(†ÆÄÄøÿÿÿÿ
+M
+java:S1161":Add the "@Override" annotation above this method signature(å{
+k	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(†‰£±
+M
+java:S1161":Add the "@Override" annotation above this method signature(ºˆ¡
+S
+java:S1161":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ
+:
+java:S1659"!Declare "mid" on a separate line.(Ö£¶ìÿÿÿÿÿ
+9
+java:S1659" Declare "lo" on a separate line.(ºÀÖ×úÿÿÿÿ

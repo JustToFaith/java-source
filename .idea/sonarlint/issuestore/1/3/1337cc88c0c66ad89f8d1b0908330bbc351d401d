@@ -1,0 +1,25 @@
+
+;
+java:S2129ì"Remove this "Short" constructor(‹¨Ô€üÿÿÿÿ
+Q
+java:S1161Ñ":Add the "@Override" annotation above this method signature(…Ø±€
+†
+java:S1130­"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(İë¯ûÿÿÿÿ
+O
+java:S1197Î"8Move the array designator from the variable to the type.(º¿ß•
+Q
+java:S1161É":Add the "@Override" annotation above this method signature(‘øÈ„
+
+java:S1130™"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(ñÇ‹ú
+†
+java:S1130À"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(°‹ã´ûÿÿÿÿ
+†
+java:S1130"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(µ”èıÿÿÿÿ
+9
+java:S2761Î""Remove multiple operator prefixes.(º¿ß•
+
+java:S1130Ç"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(ççÛ°
+6
+java:S2129Ò"Remove this "Short" constructor(³’ÅÖ
+…
+java:S1130u"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(İë¯ûÿÿÿÿ

@@ -1,0 +1,204 @@
+
+s	java:S127í"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ä§ýðøÿÿÿÿ
+<
+java:S1659¹" Declare "mi" on a separate line.(ä„Úžûÿÿÿÿ
+<
+java:S1659…" Declare "mi" on a separate line.(ä„Úžûÿÿÿÿ
+n	java:S127Ã"XRefactor the code in order to not assign to this loop counter from within the loop body.(â¾Äç
+Q
+java:S1119µ";Refactor the code to remove this label and the need for it.(àÏÅ)
+j
+java:S3776½"SRefactor this method to reduce its Cognitive Complexity from 142 to the 15 allowed.(ß÷ …
+s	java:S127õ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ôûÔ™ûÿÿÿÿ
+7
+java:S1659Ê" Declare "a2" on a separate line.(™³ä
+o
+java:S3776Þ"SRefactor this method to reduce its Cognitive Complexity from 142 to the 15 allowed.(ÎÆ£øÿÿÿÿ
+i
+java:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(üˆ¹Ÿ
+s	java:S127¥"XRefactor the code in order to not assign to this loop counter from within the loop body.(öµ¡Ñúÿÿÿÿ
+n	java:S127Ç"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â‰Ê“
+n	java:S127¡"XRefactor the code in order to not assign to this loop counter from within the loop body.(®…Ê©
+s	java:S127ì"XRefactor the code in order to not assign to this loop counter from within the loop body.(Òˆ±øÿÿÿÿ
+n	java:S127¸"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÍùÇž
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(¡üÂ2
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¼¨Ïªüÿÿÿÿ
+s	java:S127†"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ä§ýðøÿÿÿÿ
+s	java:S127À"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ìå×Êøÿÿÿÿ
+E
+java:S1121¸".Extract the assignment out of this expression.(ÍùÇž
+n
+java:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(Æà¥¤úÿÿÿÿ
+s	java:S127»"XRefactor the code in order to not assign to this loop counter from within the loop body.(ôûÔ™ûÿÿÿÿ
+n	java:S127ü"XRefactor the code in order to not assign to this loop counter from within the loop body.(ê­«
+<
+java:S1659‹" Declare "bo" on a separate line.(ùß¯æøÿÿÿÿ
+s	java:S127å"XRefactor the code in order to not assign to this loop counter from within the loop body.(öµ¡Ñúÿÿÿÿ
+s	java:S127£"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷ïêúúÿÿÿÿ
+s	java:S127Ù"XRefactor the code in order to not assign to this loop counter from within the loop body.(ôûÔ™ûÿÿÿÿ
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷ïêúúÿÿÿÿ
+s	java:S127É"XRefactor the code in order to not assign to this loop counter from within the loop body.(¼¨Ïªüÿÿÿÿ
+E
+java:S1121 ".Extract the assignment out of this expression.(–†µ²
+s	java:S127æ"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷ïêúúÿÿÿÿ
+n	java:S127¼"XRefactor the code in order to not assign to this loop counter from within the loop body.(ê­«
+n	java:S127Ü"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÍùÇž
+s	java:S127©"XRefactor the code in order to not assign to this loop counter from within the loop body.(Òˆ±øÿÿÿÿ
+s	java:S127â"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾÷†ùÿÿÿÿ
+s	java:S127È"XRefactor the code in order to not assign to this loop counter from within the loop body.(öµ¡Ñúÿÿÿÿ
+s	java:S127¬	"XRefactor the code in order to not assign to this loop counter from within the loop body.(™áè½ýÿÿÿÿ
+o
+java:S3776ú"SRefactor this method to reduce its Cognitive Complexity from 142 to the 15 allowed.(¬‚ÇÞÿÿÿÿÿ
+s	java:S127Þ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ìå×Êøÿÿÿÿ
+Q
+java:S1119
+";Refactor the code to remove this label and the need for it.(àÏÅ)
+E
+java:S1121Ÿ".Extract the assignment out of this expression.(ÍùÇž
+m	java:S127}"XRefactor the code in order to not assign to this loop counter from within the loop body.(®…Ê©
+s	java:S127Ñ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Òˆ±øÿÿÿÿ
+h
+java:S3776k"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(óÎ´Ê
+s	java:S127Á"XRefactor the code in order to not assign to this loop counter from within the loop body.(¼¨Ïªüÿÿÿÿ
+n	java:S127ˆ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ê­«
+Q
+java:S1119½";Refactor the code to remove this label and the need for it.(àÏÅ)
+n
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(¢×†­úÿÿÿÿ
+n	java:S127‡"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â‰Ê“
+o
+java:S3776¢"SRefactor this method to reduce its Cognitive Complexity from 142 to the 15 allowed.(Çß»ýøÿÿÿÿ
+n	java:S127ë"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â‰Ê“
+n	java:S127§	"XRefactor the code in order to not assign to this loop counter from within the loop body.(â¾Äç
+s	java:S127å"XRefactor the code in order to not assign to this loop counter from within the loop body.(¼¨Ïªüÿÿÿÿ
+s	java:S127‡"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷ïêúúÿÿÿÿ
+Q
+java:S1119";Refactor the code to remove this label and the need for it.(àÏÅ)
+s	java:S127Š"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾÷†ùÿÿÿÿ
+n	java:S127Ï"XRefactor the code in order to not assign to this loop counter from within the loop body.(â¾Äç
+E
+java:S1121„".Extract the assignment out of this expression.(ÍùÇž
+m	java:S127Œ"XRefactor the code in order to not assign to this loop counter from within the loop body.(èº_
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(™áè½ýÿÿÿÿ
+s	java:S127ï"XRefactor the code in order to not assign to this loop counter from within the loop body.(™áè½ýÿÿÿÿ
+<
+java:S1659¾" Declare "a2" on a separate line.(ú†™·øÿÿÿÿ
+Q
+java:S1119©";Refactor the code to remove this label and the need for it.(àÏÅ)
+n	java:S127£"XRefactor the code in order to not assign to this loop counter from within the loop body.(ê­«
+m	java:S127ë"XRefactor the code in order to not assign to this loop counter from within the loop body.(èº_
+<
+java:S1659Ý" Declare "mi" on a separate line.(ä„Úžûÿÿÿÿ
+n
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(É¾£úÿÿÿÿ
+<
+java:S1659å" Declare "a2" on a separate line.(‡œÊÁøÿÿÿÿ
+n	java:S127“"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â‰Ê“
+E
+java:S1121à".Extract the assignment out of this expression.(–†µ²
+i
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ôé›
+s	java:S127Ò"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ä§ýðøÿÿÿÿ
+s	java:S127±"XRefactor the code in order to not assign to this loop counter from within the loop body.(öµ¡Ñúÿÿÿÿ
+s	java:S127‰	"XRefactor the code in order to not assign to this loop counter from within the loop body.(öµ¡Ñúÿÿÿÿ
+s	java:S127¾"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾÷†ùÿÿÿÿ
+n	java:S127ê"XRefactor the code in order to not assign to this loop counter from within the loop body.(â¾Äç
+n	java:S127…"XRefactor the code in order to not assign to this loop counter from within the loop body.(®…Ê©
+s	java:S127¨"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ãäù×úÿÿÿÿ
+<
+java:S1659¬" Declare "bo" on a separate line.(ùß¯æøÿÿÿÿ
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¼¨Ïªüÿÿÿÿ
+j
+java:S3776Ö"SRefactor this method to reduce its Cognitive Complexity from 142 to the 15 allowed.(â¹äþ
+s	java:S127í"XRefactor the code in order to not assign to this loop counter from within the loop body.(öµ¡Ñúÿÿÿÿ
+<
+java:S1659†" Declare "a2" on a separate line.(á½½þÿÿÿÿ
+n	java:S127É"XRefactor the code in order to not assign to this loop counter from within the loop body.(®…Ê©
+s	java:S127È"XRefactor the code in order to not assign to this loop counter from within the loop body.(™áè½ýÿÿÿÿ
+m	java:S127„"XRefactor the code in order to not assign to this loop counter from within the loop body.(èº_
+<
+java:S1659ù" Declare "mi" on a separate line.(ä„Úžûÿÿÿÿ
+E
+java:S1121Ä".Extract the assignment out of this expression.(–†µ²
+m	java:S127¨"XRefactor the code in order to not assign to this loop counter from within the loop body.(èº_
+s	java:S127Æ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾÷†ùÿÿÿÿ
+E
+java:S1121Ü".Extract the assignment out of this expression.(ÍùÇž
+n	java:S127à"XRefactor the code in order to not assign to this loop counter from within the loop body.(ê­«
+Q
+java:S1119µ";Refactor the code to remove this label and the need for it.(àÏÅ)
+<
+java:S1659¢	" Declare "a2" on a separate line.(‘Êñãúÿÿÿÿ
+n	java:S127ø"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÍùÇž
+m	java:S127Ä"XRefactor the code in order to not assign to this loop counter from within the loop body.(èº_
+n	java:S127ƒ"XRefactor the code in order to not assign to this loop counter from within the loop body.(â¾Äç
+E
+java:S1121ø".Extract the assignment out of this expression.(ÍùÇž
+E
+java:S1121À".Extract the assignment out of this expression.(ÍùÇž
+i
+java:S3776«"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(Êù€·
+m	java:S127Ð"XRefactor the code in order to not assign to this loop counter from within the loop body.(èº_
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Òˆ±øÿÿÿÿ
+<
+java:S1659ð" Declare "bo" on a separate line.(ùß¯æøÿÿÿÿ
+<
+java:S1659ä" Declare "bo" on a separate line.(ùß¯æøÿÿÿÿ
+n	java:S127ä"XRefactor the code in order to not assign to this loop counter from within the loop body.(®…Ê©
+<
+java:S1659Á" Declare "mi" on a separate line.(ä„Úžûÿÿÿÿ
+n	java:S127À"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÍùÇž
+n	java:S127Ä"XRefactor the code in order to not assign to this loop counter from within the loop body.(ê­«
+n	java:S127‹"XRefactor the code in order to not assign to this loop counter from within the loop body.(â¾Äç
+o
+java:S3776–"SRefactor this method to reduce its Cognitive Complexity from 142 to the 15 allowed.(ØŠèøýÿÿÿÿ
+Q
+java:S1119Ð";Refactor the code to remove this label and the need for it.(àÏÅ)
+s	java:S127¿"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷ïêúúÿÿÿÿ
+s	java:S127þ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾÷†ùÿÿÿÿ
+s	java:S127¨"XRefactor the code in order to not assign to this loop counter from within the loop body.(¼¨Ïªüÿÿÿÿ
+Q
+java:S1119Ù
+";Refactor the code to remove this label and the need for it.(àÏÅ)
+<
+java:S1659 " Declare "mi" on a separate line.(ä„Úžûÿÿÿÿ
+s	java:S127Æ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ä§ýðøÿÿÿÿ
+s	java:S127Ô"XRefactor the code in order to not assign to this loop counter from within the loop body.(™áè½ýÿÿÿÿ
+s	java:S127ˆ"XRefactor the code in order to not assign to this loop counter from within the loop body.(™áè½ýÿÿÿÿ
+Q
+java:S1119œ";Refactor the code to remove this label and the need for it.(àÏÅ)
+n	java:S127½"XRefactor the code in order to not assign to this loop counter from within the loop body.(®…Ê©
+s	java:S127¥"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾÷†ùÿÿÿÿ
+s	java:S127Ž"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ä§ýðøÿÿÿÿ
+E
+java:S1121¨".Extract the assignment out of this expression.(–†µ²
+E
+java:S1121ì".Extract the assignment out of this expression.(–†µ²
+6
+java:S1659þ" Declare "a2" on a separate line.(¹Ï²
+n	java:S127„"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÍùÇž
+s	java:S127ª	"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ä§ýðøÿÿÿÿ
+n	java:S127Ÿ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÍùÇž
+Q
+java:S1119õ";Refactor the code to remove this label and the need for it.(àÏÅ)
+i
+java:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(¹µŒ­
+<
+java:S1659¤" Declare "bo" on a separate line.(ùß¯æøÿÿÿÿ
+s	java:S127…"XRefactor the code in order to not assign to this loop counter from within the loop body.(Òˆ±øÿÿÿÿ
+Q
+java:S1119ñ";Refactor the code to remove this label and the need for it.(àÏÅ)
+<
+java:S1659È" Declare "bo" on a separate line.(ùß¯æøÿÿÿÿ
+s	java:S127ú"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ìå×Êøÿÿÿÿ
+n	java:S127Ã"XRefactor the code in order to not assign to this loop counter from within the loop body.(¬š¾ò
+n	java:S127Ï"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â‰Ê“
+E
+java:S1121‡".Extract the assignment out of this expression.(–†µ²
+s	java:S127Å"XRefactor the code in order to not assign to this loop counter from within the loop body.(Òˆ±øÿÿÿÿ
+n	java:S127®"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â‰Ê“
+s	java:S127Ë"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷ïêúúÿÿÿÿ
+Q
+java:S1119é";Refactor the code to remove this label and the need for it.(àÏÅ)
+s	java:S127Ì"XRefactor the code in order to not assign to this loop counter from within the loop body.(öµ¡Ñúÿÿÿÿ

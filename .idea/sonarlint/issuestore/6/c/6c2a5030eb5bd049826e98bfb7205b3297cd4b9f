@@ -1,0 +1,188 @@
+
+k
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(â˜ó‡
+:
+java:S3077"&Use an "AtomicReferenceArray" instead.(ÔÏø¤
+:
+java:S1168"&Return an empty array instead of null.(ÁóšÚ
+z
+java:S1130"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(¥í­¼
+9
+java:S1181"%Catch Exception instead of Throwable.(ž¦ÆÏ
+k
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ú  Ý
+T	java:S125"<This block of commented-out lines of code should be removed.(“½ýÿÿÿÿ
+<
+java:S1604"(Make this anonymous inner class a lambda(’­Ûü
+H
+java:S1144"/Remove this unused private "Class" constructor.(’×à™þÿÿÿÿ
+l	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(®™­Ø
+z
+java:S1130"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(¥í­¼
+Y
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ú  Ý
+k
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÐÆûÛüÿÿÿÿ
+z
+java:S1130"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(½ä«ˆ
+:
+java:S3077"&Use an "AtomicReferenceArray" instead.(‰§¤š
+E
+java:S3011",This accessibility update should be removed.(¸Ò†’üÿÿÿÿ
+R
+java:S4973"9Use the "equals" method if value comparison was intended.(Ã¯Ìüÿÿÿÿ
+F
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+R
+java:S1117"9Rename "name" which hides the field declared at line 647.(ÚÖÃÖùÿÿÿÿ
+b
+java:S1117"IRename "classRedefinedCount" which hides the field declared at line 2488.(”°¾Åýÿÿÿÿ
+?
+java:S3077"&Use an "AtomicReferenceArray" instead.(½×€‹ûÿÿÿÿ
+H
+java:S1066"/Merge this if statement with the enclosing one.(ý›©úÿÿÿÿ
+
+java:S1130"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(¯‰šŒüÿÿÿÿ
+l
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÄÆÎM
+:
+java:S1452"&Remove usage of generic wildcard type.(°’ðœ
+?
+java:S3077"&Use an "AtomicReferenceArray" instead.(ù“ž¬úÿÿÿÿ
+H
+java:S1066"/Merge this if statement with the enclosing one.(Ñ¨†ßûÿÿÿÿ
+M
+java:S4973"9Use the "equals" method if value comparison was intended.(ö¹îÐ
+I
+java:S1191"5Use classes from the Java API instead of Sun classes.(éª‚€
+5
+java:S2326"T is not used in the method.(·ç­™ûÿÿÿÿ
+z
+java:S1130"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(Â‚âÚ
+p
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¨ý‹œûÿÿÿÿ
+F
+java:S1948"-Make "classLoader" transient or serializable.(ÃÎçšùÿÿÿÿ
+@
+java:S1872"'Use an "instanceof" comparison instead.(¹ÿÜÔùÿÿÿÿ
+k
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ññìŸúÿÿÿÿ
+:
+java:S1452"&Remove usage of generic wildcard type.(…£ç¦
+z
+java:S1130"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ÄØûÏ
+Y
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‡ ’Õ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(éÃë¡úÿÿÿÿ
+z
+java:S1130"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ÄØûÏ
+Y
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(â˜ó‡
+z
+java:S1130"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(¥í­¼
+:
+java:S3077"&Use an "AtomicReferenceArray" instead.(´¹£ê
+]
+java:S1117"DRename "reflectionData" which hides the field declared at line 2484.(Òæ±çúÿÿÿÿ
+9
+java:S1452"&Remove usage of generic wildcard type.(é®Ï
+z
+java:S1130"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(¥í­¼
+z
+java:S1130"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(æÊ÷ï
+<
+java:S1604"(Make this anonymous inner class a lambda(¥¬ê
+p
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ï¹ëÿÿÿÿÿ
+^
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ï¹ëÿÿÿÿÿ
+Y
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(´ÕÊÜ
+?
+java:S3077"&Use an "AtomicReferenceArray" instead.(‡¬ÔÍýÿÿÿÿ
+@
+java:S3011",This accessibility update should be removed.(ì…´Á
+k
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(´ÕÊÜ
+O
+java:S2696"6Make the enclosing method "static" or remove this set.(©—áñøÿÿÿÿ
+H
+java:S1066"/Merge this if statement with the enclosing one.(÷»ž†øÿÿÿÿ
+;
+java:S1604"(Make this anonymous inner class a lambda(ÆÞÖ
+F
+java:S1874"2Remove this use of "getPackage"; it is deprecated.(çŽô®
+z
+java:S1130"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(°’ðœ
+k
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(û«»‰þÿÿÿÿ
+m	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÞÂ°
+^
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¿’¯‚øÿÿÿÿ
+8
+java:S3077"&Use an "AtomicReferenceArray" instead.(Æ†
+e
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(›Š
+
+java:S1130"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ŸøŽ‰ûÿÿÿÿ
+N
+java:S1161":Add the "@Override" annotation above this method signature(ÒÅ™Þ
+<
+java:S1604"(Make this anonymous inner class a lambda(’­Ûü
+^
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(šˆ°âÿÿÿÿÿ
+?
+java:S3077"&Use an "AtomicReferenceArray" instead.(„ËÎüÿÿÿÿ
+C
+java:S1066"/Merge this if statement with the enclosing one.(Êêå¢
+C
+java:S1066"/Merge this if statement with the enclosing one.(ÂØœ„
+?
+java:S3077"&Use an "AtomicReferenceArray" instead.(¿’¯‚øÿÿÿÿ
+e
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(é®Ï
+r	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£ÊÖûûÿÿÿÿ
+M
+java:S4973"9Use the "equals" method if value comparison was intended.(å›î¬
+0
+java:S2326"T is not used in the method.(ðÅëã
+X
+java:S1117"DRename "annotationData" which hides the field declared at line 3498.(›¡µ·
+?
+java:S1168"&Return an empty array instead of null.(ûÃýöûÿÿÿÿ
+W
+java:S1117"DRename "annotationData" which hides the field declared at line 3498.(´äÓ4
+Z
+java:S1117"ARename "genericInfo" which hides the field declared at line 2531.(£ó¾ýÿÿÿÿ
+z
+java:S1130"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(Õ‡®ß
+z
+java:S1130"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(…£ç¦
+k
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(‡ ’Õ
+m	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(®Œ ¨
+M
+java:S1117"9Rename "name" which hides the field declared at line 647.(„ÆÕÁ
+^
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¨ý‹œûÿÿÿÿ
+b
+java:S1117"IRename "classRedefinedCount" which hides the field declared at line 2488.(”°¾Åýÿÿÿÿ
+9
+java:S3077"&Use an "AtomicReferenceArray" instead.(ÇÞÍK
+
+java:S1130"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(¾…‡Àýÿÿÿÿ
+]
+java:S3358"DExtract this nested ternary operation into an independent statement.(Æ¤ˆ•ÿÿÿÿÿ
+R
+java:S4973"9Use the "equals" method if value comparison was intended.(ŽÍ®Ðÿÿÿÿÿ
+
+java:S1130"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ññìŸúÿÿÿÿ
+^
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ñþé‚üÿÿÿÿ
+y
+java:S1130"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(é®Ï
+^	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(çÕ­øÿÿÿÿ
+p
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Ñþé‚üÿÿÿÿ
+Y
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(°ô‹ä

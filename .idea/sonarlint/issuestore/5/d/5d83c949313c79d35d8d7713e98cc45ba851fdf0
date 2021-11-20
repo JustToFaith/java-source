@@ -1,0 +1,190 @@
+
+U
+java:S1117È	"9Rename "lock" which hides the field declared at line 111.(Ğ¹Ò¬şÿÿÿÿ
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(ªí—Ãøÿÿÿÿ
+R	java:S125²
+"<This block of commented-out lines of code should be removed.(Ó¿ô
+R	java:S125¸	"<This block of commented-out lines of code should be removed.(¨¹Ã«
+n	java:S127®"XRefactor the code in order to not assign to this loop counter from within the loop body.(ïí±Ï
+T
+java:S1117í"=Rename "takeIndex" which hides the field declared at line 97.(°Çà
+Y
+java:S1117æ	"=Rename "lastRet" which hides the field declared at line 1041.(Ã¡ù„ÿÿÿÿÿ
+P
+java:S1117´"9Rename "lock" which hides the field declared at line 111.(º·úã
+P
+java:S1117Õ"9Rename "lock" which hides the field declared at line 111.(º·úã
+P
+java:S1117†"9Rename "lock" which hides the field declared at line 111.(º·úã
+m	java:S127Ë"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ú»ò
+W	java:S125’	"<This block of commented-out lines of code should be removed.(ªí—Ãøÿÿÿÿ
+W	java:S125à	"<This block of commented-out lines of code should be removed.(±üÏøÿÿÿÿ
+W	java:S125ˆ
+"<This block of commented-out lines of code should be removed.(ªí—Ãøÿÿÿÿ
+W
+java:S2184ö"@Cast one of the operands of this addition operation to a "long".(ó¯Úˆ
+W	java:S125¼"<This block of commented-out lines of code should be removed.(ëáì†şÿÿÿÿ
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(ªí—Ãøÿÿÿÿ
+J
+java:S1121Ò	".Extract the assignment out of this expression.(¯§–÷ÿÿÿÿÿ
+T
+java:S1117©
+"=Rename "takeIndex" which hides the field declared at line 97.(°Çà
+T
+java:S1854Í
+"=Remove this useless assignment to local variable "nextIndex".(ÌÜÎ
+V
+java:S1117Ç
+"?Rename "nextIndex" which hides the field declared at line 1035.(å‹¦˜
+V
+java:S1161ß	":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+E
+java:S1121³".Extract the assignment out of this expression.(˜„Ø¼
+W	java:S125¤
+"<This block of commented-out lines of code should be removed.(ªí—Ãøÿÿÿÿ
+P
+java:S1117Å"9Rename "items" which hides the field declared at line 94.(Ñ«Âß
+T
+java:S1117¿
+"=Rename "lastRet" which hides the field declared at line 1041.(Ôè˜
+P
+java:S1117 "9Rename "items" which hides the field declared at line 94.(Ñ«Âß
+P
+java:S1117ò"9Rename "lock" which hides the field declared at line 111.(º·úã
+P
+java:S1117„"9Rename "lock" which hides the field declared at line 111.(º·úã
+i
+java:S3776£
+"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(±—àà
+T
+java:S1117±"=Rename "takeIndex" which hides the field declared at line 97.(°Çà
+R	java:S125í	"<This block of commented-out lines of code should be removed.(¨¹Ã«
+W	java:S125Ü
+"<This block of commented-out lines of code should be removed.(ªí—Ãøÿÿÿÿ
+W	java:S125¦	"<This block of commented-out lines of code should be removed.(±üÏøÿÿÿÿ
+W	java:S125¼	"<This block of commented-out lines of code should be removed.(¡ÁĞçøÿÿÿÿ
+P
+java:S1117Ğ"9Rename "items" which hides the field declared at line 94.(Ñ«Âß
+T
+java:S1854Ë
+"=Remove this useless assignment to local variable "nextIndex".(éƒÃ
+D
+java:S2387¼"-"next" is the name of a field in "Reference".(ôĞ¾Â
+W	java:S125•"<This block of commented-out lines of code should be removed.(ªí—Ãøÿÿÿÿ
+P
+java:S1117‹"9Rename "items" which hides the field declared at line 94.(Ñ«Âß
+T
+java:S1117ö"=Rename "putIndex" which hides the field declared at line 100.(áÅäù
+m	java:S127Ù"XRefactor the code in order to not assign to this loop counter from within the loop body.(‚Ë§
+s	java:S127”"XRefactor the code in order to not assign to this loop counter from within the loop body.(‰çğ‡ıÿÿÿÿ
+h
+java:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Òİ“
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(ªí—Ãøÿÿÿÿ
+P
+java:S1117¢"9Rename "lock" which hides the field declared at line 111.(º·úã
+X
+java:S1117Ğ	"<Rename "cursor" which hides the field declared at line 1029.(çÏÒŞûÿÿÿÿ
+P
+java:S1117Ş"9Rename "lock" which hides the field declared at line 111.(º·úã
+P
+java:S1117™"9Rename "lock" which hides the field declared at line 111.(º·úã
+n	java:S127É"XRefactor the code in order to not assign to this loop counter from within the loop body.(ïí±Ï
+W	java:S125é
+"<This block of commented-out lines of code should be removed.(òß¿•üÿÿÿÿ
+W	java:S125ü	"<This block of commented-out lines of code should be removed.(Ì®ıÒúÿÿÿÿ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(ªí—Ãøÿÿÿÿ
+T
+java:S1117Ò"=Rename "putIndex" which hides the field declared at line 100.(áÅäù
+E
+java:S1948r"*Make "notEmpty" transient or serializable.(›ÿšÛüÿÿÿÿ
+W	java:S125é"<This block of commented-out lines of code should be removed.(ªí—Ãøÿÿÿÿ
+W	java:S125Í	"<This block of commented-out lines of code should be removed.(÷ÿ¦ïıÿÿÿÿ
+W
+java:S1117ª
+"@Rename "prevCycles" which hides the field declared at line 1047.(ŞÊÒŞ
+P
+java:S1117¾"9Rename "lock" which hides the field declared at line 111.(º·úã
+X
+java:S1117³
+"<Rename "cursor" which hides the field declared at line 1029.(’â“¼øÿÿÿÿ
+R	java:S125»
+"<This block of commented-out lines of code should be removed.(İ¸˜ö
+T
+java:S1117–"=Rename "putIndex" which hides the field declared at line 100.(áÅäù
+P
+java:S1117ë"9Rename "items" which hides the field declared at line 94.(Ñ«Âß
+X
+java:S1117á"<Rename "sweeper" which hides the field declared at line 843.(ÔîÚ»ûÿÿÿÿ
+U
+java:S1117á	"9Rename "lock" which hides the field declared at line 111.(Ğ¹Ò¬şÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ªí—Ãøÿÿÿÿ
+>
+java:S1185·"(Remove this method to simply inherit it.(å{
+P
+java:S1117ö"9Rename "lock" which hides the field declared at line 111.(º·úã
+;
+java:S1659à"Declare "p" on a separate line.(¾¢»¯øÿÿÿÿ
+W	java:S125ç"<This block of commented-out lines of code should be removed.(ªí—Ãøÿÿÿÿ
+m	java:S127°"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ú»ò
+P
+java:S1117"9Rename "lock" which hides the field declared at line 111.(º·úã
+R	java:S125˜	"<This block of commented-out lines of code should be removed.(Ö§·
+P
+java:S1117ñ"9Rename "items" which hides the field declared at line 94.(Ñ«Âß
+Q
+java:S1117·":Rename "count" which hides the field declared at line 103.(ÙÍƒƒ
+P
+java:S1117¯"9Rename "items" which hides the field declared at line 94.(Ñ«Âß
+W	java:S125¦"<This block of commented-out lines of code should be removed.(±üÏøÿÿÿÿ
+Z
+java:S1117ï"CRename "prevTakeIndex" which hides the field declared at line 1044.(¢ÃéÇ
+P
+java:S1117‘"9Rename "items" which hides the field declared at line 94.(Ñ«Âß
+P
+java:S1117­"9Rename "lock" which hides the field declared at line 111.(º·úã
+P
+java:S1117Ñ"9Rename "lock" which hides the field declared at line 111.(º·úã
+W	java:S125İ"<This block of commented-out lines of code should be removed.(ªí—Ãøÿÿÿÿ
+?
+java:S1948u")Make "notFull" transient or serializable.(ùÜ‘Ë
+U
+java:S1117¨"9Rename "lock" which hides the field declared at line 111.(Ğ¹Ò¬şÿÿÿÿ
+P
+java:S1117"9Rename "lock" which hides the field declared at line 111.(º·úã
+R	java:S125Á"<This block of commented-out lines of code should be removed.(šéÓÁ
+R	java:S125¬"<This block of commented-out lines of code should be removed.(¦ãö
+Q
+java:S1117ï":Rename "count" which hides the field declared at line 103.(ÙÍƒƒ
+W	java:S125Ç"<This block of commented-out lines of code should be removed.(ªí—Ãøÿÿÿÿ
+R	java:S125¦"<This block of commented-out lines of code should be removed.(šéÓÁ
+P
+java:S1117¡"9Rename "items" which hides the field declared at line 94.(Ñ«Âß
+n	java:S127•"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ş¼Ş¢
+W	java:S125­"<This block of commented-out lines of code should be removed.(ªí—Ãøÿÿÿÿ
+n
+java:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(íàìúÿÿÿÿ
+R	java:S125´	"<This block of commented-out lines of code should be removed.(…Äª
+W	java:S125Ä	"<This block of commented-out lines of code should be removed.(±üÏøÿÿÿÿ
+T
+java:S1117ì	">Rename "lastItem" which hides the field declared at line 1038.(í˜À
+<
+java:S1948^"'Make "items" transient or serializable.(ÇüÊS
+W	java:S125±	"<This block of commented-out lines of code should be removed.(ïŸ‚–øÿÿÿÿ
+P
+java:S1117’"9Rename "lock" which hides the field declared at line 111.(º·úã
+P
+java:S1117Æ"9Rename "lock" which hides the field declared at line 111.(º·úã
+Z
+java:S1117«
+"CRename "prevTakeIndex" which hides the field declared at line 1044.(¢ÃéÇ
+P
+java:S1117ì"9Rename "lock" which hides the field declared at line 111.(º·úã
+W	java:S125Ó	"<This block of commented-out lines of code should be removed.(¦ªÒÌúÿÿÿÿ
+U
+java:S1117®	"9Rename "lock" which hides the field declared at line 111.(Ğ¹Ò¬şÿÿÿÿ
+V
+java:S1161†":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ
+W
+java:S1117î"@Rename "prevCycles" which hides the field declared at line 1047.(ŞÊÒŞ
+T
+java:S1117§"=Rename "putIndex" which hides the field declared at line 100.(áÅäù

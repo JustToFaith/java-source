@@ -1,0 +1,18 @@
+
+I
+java:S1165ä"-Make this "suppressedExceptions" field final.(ÃÙùøûÿÿÿÿ
+9
+java:S2386™"Make this member "protected".(äøğ”ûÿÿÿÿ
+n
+java:S3776’"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(–Å“øÿÿÿÿ
+_
+java:S1610Ú"CConvert the abstract class "PrintStreamOrWriter" into an interface.(ÿÕ«øÿÿÿÿ
+:
+java:S1165Æ"Make this "cause" field final.(„º²Âûÿÿÿÿ
+N	java:S106ü"9Replace this use of System.out or System.err by a logger.(¥Ê´
+=
+java:S1165z""Make this "backtrace" field final.(Ôß¯Ùşÿÿÿÿ
+=
+java:S1165ƒ"&Make this "detailMessage" field final.(€¯ìà
+:
+java:S1165Ó"#Make this "stackTrace" field final.(àìˆç

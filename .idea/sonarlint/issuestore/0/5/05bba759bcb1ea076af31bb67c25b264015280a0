@@ -1,0 +1,96 @@
+
+F
+java:S3740§"/Provide the parametrized type for this generic.(µ¦ÖÄ
+F
+java:S3740¨"/Provide the parametrized type for this generic.(¦®æş
+F
+java:S3740®"/Provide the parametrized type for this generic.(¬ÜŸ
+F
+java:S3740º"/Provide the parametrized type for this generic.(Í‡è£
+K
+java:S3740ı"/Provide the parametrized type for this generic.(ÇÂÎµøÿÿÿÿ
+K
+java:S3740˜"/Provide the parametrized type for this generic.(ÇÂÎµøÿÿÿÿ
+K
+java:S3740«"/Provide the parametrized type for this generic.(ÇÂÎµøÿÿÿÿ
+K
+java:S3740Ë"/Provide the parametrized type for this generic.(‚²Ãìøÿÿÿÿ
+K
+java:S3740‚"/Provide the parametrized type for this generic.(©ÖŠ˜úÿÿÿÿ
+K
+java:S3740 "/Provide the parametrized type for this generic.(½¤±‹şÿÿÿÿ
+F
+java:S3740»"/Provide the parametrized type for this generic.(õ§áŞ
+F
+java:S3740¾"/Provide the parametrized type for this generic.(–ëıƒ
+K
+java:S3740²"/Provide the parametrized type for this generic.(¿Û¡ºşÿÿÿÿ
+K
+java:S3740˜
+"/Provide the parametrized type for this generic.(œÕ¬ÿÿÿÿÿ
+F
+java:S3740™
+"/Provide the parametrized type for this generic.(¸­¤´
+K
+java:S3740Ç
+"/Provide the parametrized type for this generic.(†ßş›ıÿÿÿÿ
+K
+java:S3740Ç
+"/Provide the parametrized type for this generic.(†ßş›ıÿÿÿÿ
+F
+java:S3740Õ
+"/Provide the parametrized type for this generic.(œŞ±
+F
+java:S3740İ
+"/Provide the parametrized type for this generic.(‹«õÛ
+d
+java:S1192¯"MDefine a constant instead of duplicating this literal "beanContext" 10 times.(ç£®û
+D
+java:S1604›
+"(Make this anonymous inner class a lambda(È‰äøÿÿÿÿ
+S
+java:S1128)"=Remove this unused import 'java.beans.VetoableChangeSupport'.(×èıò
+M
+java:S1128""2Remove this unused import 'java.beans.DesignMode'.(Æ’Ğúúÿÿÿÿ
+R
+java:S1128&"=Remove this unused import 'java.beans.PropertyChangeSupport'.(ë¥³0
+T
+java:S1128 "9Remove this unused import 'java.beans.AppletInitializer'.(Éí®÷ÿÿÿÿÿ
+J
+java:S1121".Extract the assignment out of this expression.(®ú¬Öûÿÿÿÿ
+J
+java:S1121—".Extract the assignment out of this expression.(ôÈšåùÿÿÿÿ
+J
+java:S1121²".Extract the assignment out of this expression.(¿Û¡ºşÿÿÿÿ
+˜
+java:S1186Û"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–•¤—
+˜
+java:S1186í"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ˆŠ¬Å
+
+java:S1186‡	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹Ãöêùÿÿÿÿ
+
+java:S1186’	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿ³Üîùÿÿÿÿ
+O
+java:S2675¦"3Remove the "synchronized" keyword from this method.(úÛ¢·üÿÿÿÿ
+V
+java:S1161¬":Add the "@Override" annotation above this method signature(ø«½¿ıÿÿÿÿ
+C
+java:S1948Õ"'Make "child" transient or serializable.(Ëçœåıÿÿÿÿ
+G
+java:S1948Ö"+Make "proxyPeer" transient or serializable.(ÈËÎºşÿÿÿÿ
+n
+java:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÍåÙŠÿÿÿÿÿ
+g
+java:S2445"P"targetChild" is a method parameter, and should not be used for synchronization.(Ê¸Öş
+g
+java:S2445"P"targetChild" is a method parameter, and should not be used for synchronization.(Ê¸Öş
+2
+java:S3626ø"Remove this redundant jump.(ûÁİ…
+2
+java:S3626Š"Remove this redundant jump.(ûÁİ…
+I
+java:S1905ö"-Remove this unnecessary cast to "Visibility".(á×÷ïøÿÿÿÿ
+R	java:S125Œ"<This block of commented-out lines of code should be removed.(é•
+;
+java:S1872È
+"Use "isAssignableFrom" instead.(­‰‘ìüÿÿÿÿ

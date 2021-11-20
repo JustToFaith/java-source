@@ -1,0 +1,19 @@
+
+T
+java:S1197ö"8Move the array designator from the variable to the type.(ì‘ô·úÿÿÿÿ
+x
+java:S1845Þ"\Rename method "lt" to prevent any misunderstanding/clash with field "LT" defined on line 69.(ÀÎÑ€ùÿÿÿÿ
+r
+java:S1845ð"\Rename method "eq" to prevent any misunderstanding/clash with field "EQ" defined on line 87.(ùÎÈ%
+z
+java:S1845—"cRename method "minus" to prevent any misunderstanding/clash with field "MINUS" defined on line 100.(…ûõá
+œ
+java:S1186v"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ç³€½üÿÿÿÿ
+w
+java:S1845ó"`Rename method "plus" to prevent any misunderstanding/clash with field "PLUS" defined on line 94.(»ÌÚà
+s
+java:S1845¨"\Rename method "gt" to prevent any misunderstanding/clash with field "GT" defined on line 63.(È»¹À
+{
+java:S1845©"_Rename method "div" to prevent any misunderstanding/clash with field "DIV" defined on line 112.(ñ‘•òþÿÿÿÿ
+
+java:S1845…"cRename method "times" to prevent any misunderstanding/clash with field "TIMES" defined on line 106.(Î©ñóþÿÿÿÿ

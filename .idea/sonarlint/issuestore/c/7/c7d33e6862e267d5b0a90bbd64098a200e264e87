@@ -1,0 +1,49 @@
+
+S
+java:S1161":Add the "@Override" annotation above this method signature(ã€ı†ûÿÿÿÿ
+S
+java:S1161":Add the "@Override" annotation above this method signature(šÅ†øûÿÿÿÿ
+A
+java:S1604"(Make this anonymous inner class a lambda(åâÄ®ûÿÿÿÿ
+B
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›
+S
+java:S1161":Add the "@Override" annotation above this method signature(»ş¾¼üÿÿÿÿ
+k
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(»ş¾¼üÿÿÿÿ
+B
+java:S1066"/Merge this if statement with the enclosing one.(ñÆ!
+I
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ìôéœ
+o
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "ucl".(Ù à§
+
+java:S1130"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(À“õÄ
+A
+java:S1659"(Declare "specVendor" on a separate line.(‹ë ©úÿÿÿÿ
+K
+java:S1874"2Remove this use of "getPackage"; it is deprecated.(õ±İíøÿÿÿÿ
+k
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(­•’Òúÿÿÿÿ
+;
+java:S1604"(Make this anonymous inner class a lambda(¦”Î
+<
+java:S1659"(Declare "implVendor" on a separate line.(›ûÈÀ
+N
+java:S1161":Add the "@Override" annotation above this method signature(õïìØ
+o
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "ucl".(Ù à§
+z
+java:S1130"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ßŠ›…
+=
+java:S1659")Declare "implVersion" on a separate line.(›ûÈÀ
+A
+java:S1604"(Make this anonymous inner class a lambda(åâÄ®ûÿÿÿÿ
+;
+java:S1604"(Make this anonymous inner class a lambda(¦”Î
+B
+java:S1659")Declare "specVersion" on a separate line.(‹ë ©úÿÿÿÿ
+N
+java:S1161":Add the "@Override" annotation above this method signature(‚´‘Í
+S
+java:S1161":Add the "@Override" annotation above this method signature(ï›Œ³øÿÿÿÿ

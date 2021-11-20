@@ -1,0 +1,35 @@
+
+g
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ž²ÈÞ
+i
+java:S4144"UUpdate this method so that its implementation is not identical to "peek" on line 650.(ùÎ³ž
+r
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÊúùúÿÿÿÿ
+3
+java:S1659"Declare "n" on a separate line.(´£ºŒ
+n
+java:S4144"UUpdate this method so that its implementation is not identical to "poll" on line 672.(ÓÈ¸óøÿÿÿÿ
+g
+java:S2272"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(¤¿ðßýÿÿÿÿ
+;
+java:S1659""Declare "succ" on a separate line.(Èž®Ðûÿÿÿÿ
+\
+java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(Ž²ÈÞ
+M
+java:S1161":Add the "@Override" annotation above this method signature(ºˆ¡
+>
+java:S2160"+Override the "equals" method in this class.(Áž‰A
+M
+java:S1161":Add the "@Override" annotation above this method signature(ºˆ¡
+O	java:S125"<This block of commented-out lines of code should be removed.(Ã‚à
+O	java:S125"<This block of commented-out lines of code should be removed.(Þõß½
+S
+java:S1161":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(¸œþŽ
+O	java:S125"<This block of commented-out lines of code should be removed.(ûöÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(´¶«øÿÿÿÿ
+Q
+java:S1117"8Rename "size" which hides the field declared at line 87.(Ó•š•øÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(àý‘Ïûÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(Üµê’ùÿÿÿÿ
+p	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ïßóùøÿÿÿÿ

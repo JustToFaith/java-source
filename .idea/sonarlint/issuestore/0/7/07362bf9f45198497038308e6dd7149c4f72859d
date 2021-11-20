@@ -1,0 +1,31 @@
+
+G
+java:S2065Ç"0Remove the "transient" modifier from this field.(Úúþ£
+<
+java:S1948æ"%Make "key" transient or serializable.(æàÝÌ
+V
+java:S1161³":Add the "@Override" annotation above this method signature(Þ‚ÄÔýÿÿÿÿ
+Q
+java:S1161·":Add the "@Override" annotation above this method signature(Û¶¬å
+l
+java:S3038À"P"entrySet" is defined in the "Map" interface and can be removed from this class.(›íûÉøÿÿÿÿ
+i
+java:S2975¼"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 
+V
+java:S1161¥":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+C
+java:S1948å"'Make "value" transient or serializable.(ÖÜÝäøÿÿÿÿ
+V
+java:S1161ê":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+a
+java:S2147õ"ECombine this catch with the one at line 499, which has the same body.(Ü–›×øÿÿÿÿ
+<
+java:S1948ä"%Make "key" transient or serializable.(æàÝÌ
+L
+java:S2065È"0Remove the "transient" modifier from this field.(ÜÐ¢€ÿÿÿÿÿ
+Q
+java:S1161¯":Add the "@Override" annotation above this method signature(ûÄ•
+n
+java:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ý¢êÍýÿÿÿÿ
+C
+java:S1948ç"'Make "value" transient or serializable.(Š¥²þÿÿÿÿ

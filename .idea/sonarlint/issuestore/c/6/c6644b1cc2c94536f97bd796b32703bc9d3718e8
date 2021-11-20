@@ -1,0 +1,20 @@
+
+K
+java:S1191)"5Use classes from the Java API instead of Sun classes.(éª‚€
+[	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(­§äç
+[	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+o	java:S1158"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(À¥ã›
+t	java:S1159"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÉæúŞøÿÿÿÿ
+t	java:S115:"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»‚ƒßùÿÿÿÿ
+B
+java:S1948;"'Make "array" transient or serializable.(ï¯«Ùÿÿÿÿÿ
+9
+java:S1659×""Declare "next" on a separate line.(ï·İ§
+9
+java:S1659ì""Declare "next" on a separate line.(ï·İ§
+9
+java:S1659†""Declare "next" on a separate line.(ï·İ§
+9
+java:S1659 ""Declare "next" on a separate line.(ï·İ§
+•
+java:S1130À"yRemove the declaration of thrown exception 'java.io.InvalidObjectException' which is a subclass of 'java.io.IOException'.(­÷•£øÿÿÿÿ

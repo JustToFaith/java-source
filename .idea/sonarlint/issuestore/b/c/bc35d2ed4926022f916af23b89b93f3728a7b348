@@ -1,0 +1,231 @@
+
+Œ
+java:S1319«)"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(™øÆıÿÿÿÿ
+K
+java:S1191)"5Use classes from the Java API instead of Sun classes.(Àãé
+_
+java:S1192è""HDefine a constant instead of duplicating this literal "Index: " 3 times.(ÚÏäÑ
+o
+java:S1192ä"SDefine a constant instead of duplicating this literal "Attempt to insert " 4 times.(³«•¹ıÿÿÿÿ
+s	java:S127 "XRefactor the code in order to not assign to this loop counter from within the loop body.(×ÃıÀùÿÿÿÿ
+J
+java:S1121".Extract the assignment out of this expression.(áÎ­îûÿÿÿÿ
+4
+java:S2386¹!"Make this member "protected".(Ä´ññ
+9
+java:S2386¯""Make this member "protected".(ğÉ§ªüÿÿÿÿ
+9
+java:S2386”#"Make this member "protected".(íÙ§Éûÿÿÿÿ
+n
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(é…¯ıÿÿÿÿ
+n
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ş™çÏùÿÿÿÿ
+W
+java:S1119Š";Refactor the code to remove this label and the need for it.(±À¼–úÿÿÿÿ
+W
+java:S1119“";Refactor the code to remove this label and the need for it.(±À¼–úÿÿÿÿ
+i
+java:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(‹Ôª¶
+W
+java:S1119¿";Refactor the code to remove this label and the need for it.(±À¼–úÿÿÿÿ
+W
+java:S1119Ê";Refactor the code to remove this label and the need for it.(±À¼–úÿÿÿÿ
+:
+java:S1948€"#Make "c" transient or serializable.(ñÖû£
+V
+java:S1161•":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+G
+java:S2160‡	"+Override the "equals" method in this class.(ëúŠÅüÿÿÿÿ
+@
+java:S1948‹	"$Make "ss" transient or serializable.(ñèË¡ıÿÿÿÿ
+B
+java:S2160»	"+Override the "equals" method in this class.(Ôò’å
+I
+java:S2390Ô	"-Remove this reference to "EmptyNavigableSet".(Û—„ùÿÿÿÿ
+;
+java:S1948Ù	"$Make "ns" transient or serializable.(›øî˜
+o
+java:S2293Ì	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒæ·5
+B
+java:S1948•
+"&Make "list" transient or serializable.(©ĞíŒşÿÿÿÿ
+a
+java:S2062ç
+"EMake this class "private" or elevate the visibility of "readResolve".(ŒÇ«Óüÿÿÿÿ
+Q
+java:S1161ø
+":Add the "@Override" annotation above this method signature(¾ 
+?
+java:S1948¤"#Make "m" transient or serializable.(á¾£Íşÿÿÿÿ
+l
+java:S1206»"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+Q
+java:S1161¬":Add the "@Override" annotation above this method signature(¹ÈÈâ
+Q
+java:S1161è":Add the "@Override" annotation above this method signature(°‘éé
+V
+java:S1161":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+V
+java:S1161»":Add the "@Override" annotation above this method signature(İ¢êÍıÿÿÿÿ
+G
+java:S2160"+Override the "equals" method in this class.(¥ÿÎöøÿÿÿÿ
+@
+java:S1948†"$Make "sm" transient or serializable.(Ğôûıúÿÿÿÿ
+B
+java:S2160®"+Override the "equals" method in this class.(ÙÈåà
+D
+java:S2390Ì"-Remove this reference to "EmptyNavigableMap".(Ñï•Ö
+;
+java:S1948Ñ"$Make "nm" transient or serializable.(£¥í
+u
+java:S2293¿"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÙ¼ùÿÿÿÿ
+:
+java:S1948Ó"#Make "c" transient or serializable.(†¸Š
+>
+java:S1948Ô"'Make "mutex" transient or serializable.(®üŞË
+G
+java:S2160"+Override the "equals" method in this class.(íŠşÿÿÿÿ
+@
+java:S1948•"$Make "ss" transient or serializable.(ñèË¡ıÿÿÿÿ
+G
+java:S2160ì"+Override the "equals" method in this class.(ñ‹îœüÿÿÿÿ
+;
+java:S1948ò"$Make "ns" transient or serializable.(›øî˜
+B
+java:S1948Ş"&Make "list" transient or serializable.(ó½µ”ÿÿÿÿÿ
+a
+java:S2062®"EMake this class "private" or elevate the visibility of "readResolve".(ŒÇ«Óüÿÿÿÿ
+Q
+java:S1161Ä":Add the "@Override" annotation above this method signature(¾ 
+:
+java:S1948€"#Make "m" transient or serializable.(‹·Şé
+>
+java:S1948"'Make "mutex" transient or serializable.(®üŞË
+B
+java:S2160¼"+Override the "equals" method in this class.(ùæ§Î
+;
+java:S1948Â"$Make "sm" transient or serializable.(Şİ—Ó
+G
+java:S2160¡"+Override the "equals" method in this class.(ŸôÈùÿÿÿÿ
+@
+java:S1948§"$Make "nm" transient or serializable.(ÄÃ¤ùÿÿÿÿ
+?
+java:S1948Ù"#Make "c" transient or serializable.(µ¨ş×øÿÿÿÿ
+O
+java:S1948Œ"8Make "zeroLengthElementArray" transient or serializable.(ì€Åû
+V
+java:S1161‡":Add the "@Override" annotation above this method signature(œüÑ‹ÿÿÿÿÿ
+>
+java:S1948è"'Make "queue" transient or serializable.(üÛ²
+B
+java:S2160É"+Override the "equals" method in this class.(Šì©¸
+@
+java:S1948Î"$Make "ss" transient or serializable.(ñèË¡ıÿÿÿÿ
+G
+java:S2160ˆ"+Override the "equals" method in this class.(¯ãŞ‹ıÿÿÿÿ
+;
+java:S1948"$Make "ns" transient or serializable.(›øî˜
+B
+java:S1948ß"&Make "list" transient or serializable.(ó½µ”ÿÿÿÿÿ
+Q
+java:S1161¹":Add the "@Override" annotation above this method signature(¾ 
+:
+java:S1948ò"#Make "m" transient or serializable.(ü†ú
+[
+java:S1117«"?Rename "valueType" which hides the field declared at line 3733.(úÆ¸®ûÿÿÿÿ
+V
+java:S1161¯":Add the "@Override" annotation above this method signature(ŒÆÖÃÿÿÿÿÿ
+G
+java:S2160ø"+Override the "equals" method in this class.(Â‡üÇşÿÿÿÿ
+;
+java:S1948ı"$Make "sm" transient or serializable.(Şİ—Ó
+G
+java:S2160Â"+Override the "equals" method in this class.(‘„ğÃÿÿÿÿÿ
+@
+java:S1948Ç"$Make "nm" transient or serializable.(ÄÃ¤ùÿÿÿÿ
+Q
+java:S1161à ":Add the "@Override" annotation above this method signature(å„Ø
+G
+java:S1150«!"+Implement Iterator rather than Enumeration.(ã¢®˜ıÿÿÿÿ
+B
+java:S1905Ğ!"&Remove this unnecessary cast to "Set".(¿¶·§øÿÿÿÿ
+C
+java:S1905Ç""'Remove this unnecessary cast to "List".(±Ï¦ûÿÿÿÿ
+˜
+java:S1186û""€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(é±Şâ
+P
+java:S1161Ò"":Add the "@Override" annotation above this method signature(¹æá5
+Q
+java:S1161Õ"":Add the "@Override" annotation above this method signature(¥÷Ğ¥
+=
+java:S1905ª#"&Remove this unnecessary cast to "Map".(Ú­’»
+V
+java:S1161à#":Add the "@Override" annotation above this method signature(î˜Ïúÿÿÿÿ
+V
+java:S1161á#":Add the "@Override" annotation above this method signature(ªğÛÃøÿÿÿÿ
+V
+java:S1161â#":Add the "@Override" annotation above this method signature(Í÷Ãèúÿÿÿÿ
+V
+java:S1161ã#":Add the "@Override" annotation above this method signature(«È¢şûÿÿÿÿ
+V
+java:S1161ä#":Add the "@Override" annotation above this method signature(›°Áüùÿÿÿÿ
+Q
+java:S1161å#":Add the "@Override" annotation above this method signature(©©ÁĞ
+Q
+java:S1161æ#":Add the "@Override" annotation above this method signature(ş³Ä
+V
+java:S1161Í$":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+B
+java:S2160Œ%"+Override the "equals" method in this class.(…È­
+E
+java:S1948’%")Make "element" transient or serializable.(ò•õ¯ÿÿÿÿÿ
+G
+java:S2160½%"+Override the "equals" method in this class.(˜Ş”÷úÿÿÿÿ
+˜
+java:S1186ã%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(é±Şâ
+E
+java:S1948Ã%")Make "element" transient or serializable.(ò•õ¯ÿÿÿÿÿ
+P
+java:S1161Ç%":Add the "@Override" annotation above this method signature(¹æá5
+B
+java:S2160ş%"+Override the "equals" method in this class.(¹óğÖ
+?
+java:S1948ƒ&"#Make "k" transient or serializable.(°·œÅıÿÿÿÿ
+:
+java:S1948„&"#Make "v" transient or serializable.(­™øŞ
+M
+java:S2387‘&"1"keySet" is the name of a field in "AbstractMap".(ôœ”üûÿÿÿÿ
+H
+java:S2387“&"1"values" is the name of a field in "AbstractMap".(™ò™ã
+Q
+java:S1161‹&":Add the "@Override" annotation above this method signature(ºì¯Ê
+Q
+java:S1161Œ&":Add the "@Override" annotation above this method signature(êÈ°ÿ
+Q
+java:S1161&":Add the "@Override" annotation above this method signature(›åÜÉ
+Q
+java:S1161&":Add the "@Override" annotation above this method signature(ô¢Æµ
+Q
+java:S1161&":Add the "@Override" annotation above this method signature(§ÒŸù
+Q
+java:S1161•&":Add the "@Override" annotation above this method signature(æËÊ
+Q
+java:S1161¢&":Add the "@Override" annotation above this method signature(±ì½Ş
+@
+java:S1948ˆ'")Make "element" transient or serializable.(‡“Õß
+V
+java:S1161˜'":Add the "@Override" annotation above this method signature(«ÚÖİüÿÿÿÿ
+V
+java:S1161œ'":Add the "@Override" annotation above this method signature(ì¦Æıûÿÿÿÿ
+S
+java:S1117°'"7Rename "n" which hides the field declared at line 4999.(‡Îà©úÿÿÿÿ
+Q
+java:S1161¾'":Add the "@Override" annotation above this method signature(¾ 
+n
+java:S3776İ'"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(İ¢êÍıÿÿÿÿ
+A
+java:S1948è("%Make "cmp" transient or serializable.(‡Ô‘Ùúÿÿÿÿ
+?
+java:S1948ü*"#Make "m" transient or serializable.(òÓ°¬ûÿÿÿÿ
+?
+java:S1948Î+"#Make "q" transient or serializable.(¤åƒüÿÿÿÿ

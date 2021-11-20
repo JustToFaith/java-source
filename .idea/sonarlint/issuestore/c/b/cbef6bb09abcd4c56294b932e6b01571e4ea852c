@@ -1,0 +1,22 @@
+
+D	java:S108Æ")Either remove or fill this block of code.(™ì…üÿÿÿÿ
+=
+java:S1452Ğ"&Remove usage of generic wildcard type.(Äèİ
+_	java:S119×"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ã€Œ§
+_	java:S119×"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ã€Œ§
+D	java:S108ü")Either remove or fill this block of code.(™ì…üÿÿÿÿ
+D	java:S108")Either remove or fill this block of code.(™ì…üÿÿÿÿ
+J
+java:S1905¤".Remove this unnecessary cast to "IntConsumer".(™Ğàûÿÿÿÿ
+J
+java:S1905»".Remove this unnecessary cast to "IntConsumer".(¡Ñ¨¬ÿÿÿÿÿ
+D	java:S108Î")Either remove or fill this block of code.(™ì…üÿÿÿÿ
+F
+java:S1905ä"/Remove this unnecessary cast to "LongConsumer".(òğÆ½
+F
+java:S1905û"/Remove this unnecessary cast to "LongConsumer".(ùº‘­
+D	java:S108")Either remove or fill this block of code.(™ì…üÿÿÿÿ
+H
+java:S1905¤"1Remove this unnecessary cast to "DoubleConsumer".(…ÕÖ
+M
+java:S1905¼"1Remove this unnecessary cast to "DoubleConsumer".(‘û´‘úÿÿÿÿ

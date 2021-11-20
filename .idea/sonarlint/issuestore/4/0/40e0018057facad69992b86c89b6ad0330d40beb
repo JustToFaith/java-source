@@ -1,0 +1,89 @@
+
+z	java:S127¢"XRefactor the code in order to not assign to this loop counter from within the loop body.(ë£¾…ÿÿÿÿÿ8éÑä•ä.
+u	java:S127¾"XRefactor the code in order to not assign to this loop counter from within the loop body.(ğ½¢à8éÑä•ä.
+p
+java:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(÷¾˜8éÑä•ä.
+Y
+java:S1119ê";Refactor the code to remove this label and the need for it.(©£À…8ëÜ½•ä.
+|
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏÜ‘§ÿÿÿÿÿ8éÑä•ä.
+L
+java:S1191Î"5Use classes from the Java API instead of Sun classes.(¾¯Œ÷
+u	java:S127¾"XRefactor the code in order to not assign to this loop counter from within the loop body.(ğ½¢à8éÑä•ä.
+u	java:S115Ï"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ú¸³Èúÿÿÿÿ
+t	java:S127ÿ"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷Ñè}8éÑä•ä.
+R
+java:S1066Ì"/Merge this if statement with the enclosing one.(¥¦×¤ıÿÿÿÿ8éÑä•ä.
+|
+java:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏÜ‘§ÿÿÿÿÿ8éÑä•ä.
+B
+java:S1659Æ"Declare "p" on a separate line.(µÂøÿÿÿÿ8éÑä•ä.
+w	java:S115­"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×§Úš8ëÜ½•ä.
+n
+java:S3077ì"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(æ«Öë
+v	java:S115®"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Ø¢8éÑä•ä.
+u	java:S115Ğ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŞÔ—¸üÿÿÿÿ
+p
+java:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(×ûßî
+o
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Æÿü}8ëÜ½•ä.
+^	java:S125¯"<This block of commented-out lines of code should be removed.(àı‘Ïûÿÿÿÿ8éÑä•ä.
+]
+java:S1161í":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ8éÑä•ä.
+z	java:S127å"XRefactor the code in order to not assign to this loop counter from within the loop body.(Óğûùÿÿÿÿ8ëÜ½•ä.
+b
+java:S3358¼"DExtract this nested ternary operation into an independent statement.(»³¡8éÑä•ä.
+p
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(Èî‰¦
+u	java:S127â"XRefactor the code in order to not assign to this loop counter from within the loop body.(ğ½¢à8ëÜ½•ä.
+t	java:S127©"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷Ñè}8éÑä•ä.
+t	java:S127÷"XRefactor the code in order to not assign to this loop counter from within the loop body.(õÆÆ8éÑä•ä.
+i
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ŠòŞç
+n
+java:S3077µ"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(‚Ñæâ
+z	java:S127å"XRefactor the code in order to not assign to this loop counter from within the loop body.(Óğûùÿÿÿÿ8ëÜ½•ä.
+w
+java:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(üı…8éÑä•ä.
+W	java:S125˜"<This block of commented-out lines of code should be removed.(Õ®œÿÿÿÿÿ
+;
+java:S1659"Declare "t" on a separate line.(†Ò±ùÿÿÿÿ
+p
+java:S3776’"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(˜Íşô8éÑä•ä.
+n
+java:S3077¶"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(³îÙ
+c	java:S112¸"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ8éÑä•ä.
+z	java:S127ô"XRefactor the code in order to not assign to this loop counter from within the loop body.(¼¥ŠËùÿÿÿÿ8éÑä•ä.
+W
+java:S1161Ô":Add the "@Override" annotation above this method signature(ºˆ¡8éÑä•ä.
+B
+java:S1659›"Declare "t" on a separate line.(†Ò±ùÿÿÿÿ8éÑä•ä.
+@
+java:S1659˜""Declare "last" on a separate line.(¬ÿõÖ8éÑä•ä.
+\	java:S112Û"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+s
+java:S3077ú"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¹çóÏşÿÿÿÿ
+Y
+java:S1119";Refactor the code to remove this label and the need for it.(©£À…8éÑä•ä.
+z	java:S127Á"XRefactor the code in order to not assign to this loop counter from within the loop body.(Óğûùÿÿÿÿ8éÑä•ä.
+u	java:S127‰"XRefactor the code in order to not assign to this loop counter from within the loop body.(ó®úë8éÑä•ä.
+u
+java:S3776î"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(İî‹âùÿÿÿÿ8éÑä•ä.
+E
+java:S1659ğ""Declare "pred" on a separate line.(’üışÿÿÿÿ8éÑä•ä.
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷Ñè}8éÑä•ä.
+z	java:S127Á"XRefactor the code in order to not assign to this loop counter from within the loop body.(Óğûùÿÿÿÿ8éÑä•ä.
+w
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(ã·È°8éÑä•ä.
+Y
+java:S1119…";Refactor the code to remove this label and the need for it.(©£À…8éÑä•ä.
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(±µˆ‚
+u	java:S127â"XRefactor the code in order to not assign to this loop counter from within the loop body.(ğ½¢à8ëÜ½•ä.
+w
+java:S2293¨"YReplace the type specification in this constructor call with the diamond operator ("<>").(º¨à8éÑä•ä.
+t	java:S127±"XRefactor the code in order to not assign to this loop counter from within the loop body.(Îò¨;8éÑä•ä.
+w
+java:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(±µˆ‚8éÑä•ä.
+p
+java:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(º¨à

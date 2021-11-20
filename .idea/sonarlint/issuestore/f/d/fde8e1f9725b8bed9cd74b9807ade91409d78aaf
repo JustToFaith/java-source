@@ -1,0 +1,22 @@
+
+`
+java:S3358•"DExtract this nested ternary operation into an independent statement.(”äî¥şÿÿÿÿ
+Q
+java:S1161Ğ":Add the "@Override" annotation above this method signature(…Ø±€
+†
+java:S1130“"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(ãğ€ıÿÿÿÿ
+†
+java:S1130Ÿ"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(¬öÔÀÿÿÿÿÿ
+e
+java:S1764E"JCorrect one of the identical sub-expressions on both sides of operator "/"(«àëÿûÿÿÿÿ
+Q
+java:S1161Ã":Add the "@Override" annotation above this method signature(‘øÈ„
+t	java:S115E"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(«àëÿûÿÿÿÿ
+;
+java:S2129 "Remove this "Float" constructor(„Ûªıÿÿÿÿ
+6
+java:S2129±"Remove this "Float" constructor( À¤­
+
+java:S1130Â"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(§Ï«¤
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¿‚Œäùÿÿÿÿ

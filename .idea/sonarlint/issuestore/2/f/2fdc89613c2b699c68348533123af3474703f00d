@@ -1,0 +1,177 @@
+
+<
+java:S1659"(Declare "MN_IS_TYPE" on a separate line.(öµñ‰
+8
+java:S1659"$Declare "T_BYTE" on a separate line.(î±àÖ
+r	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( ‰†“ÿÿÿÿÿ
+H
+java:S1659"/Declare "REF_invokeSpecial" on a separate line.(ø±‘¤ûÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(å”µı
+>
+java:S1659"+Declare "ACC_TRANSIENT" on a separate line.(ëªàj
+?
+java:S1659"+Declare "ACC_SYNTHETIC" on a separate line.(‡ƒ¬×
+m	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘«Çù
+m	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£¥ì¬
+H
+java:S1659"4Declare "MN_REFERENCE_KIND_MASK" on a separate line.(ş˜ÀÃ
+P
+java:S1854"7Remove this useless assignment to local variable "err".(Öøÿÿÿÿ
+G
+java:S1659".Declare "ACC_SYNCHRONIZED" on a separate line.(âƒÕ¡ùÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(œ“¥‰
+J
+java:S1659"1Declare "CONSTANT_MethodType" on a separate line.( ‰†“ÿÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(İİ‹¼
+L	java:S106"9Replace this use of System.out or System.err by a logger.(üİÑ
+r	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ùÒĞÏıÿÿÿÿ
+Q
+java:S1854"8Remove this useless assignment to local variable "defc".(¼Ğüëûÿÿÿÿ
+r	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‚úÑ»ıÿÿÿÿ
+^
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ãğªùüÿÿÿÿ
+H
+java:S1659"/Declare "REF_invokeVirtual" on a separate line.(ùÒĞÏıÿÿÿÿ
+B
+java:S1481")Remove this unused "defc" local variable.(¼Ğüëûÿÿÿÿ
+9
+java:S1659"%Declare "T_FLOAT" on a separate line.(±ÌÎô
+d
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Ñ’‰ÿÿÿÿÿ
+:	java:S131""Add a default case to this switch.(Ñ’‰ÿÿÿÿÿ
+m	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ßëùÍ
+>
+java:S1659"*Declare "ACC_VOLATILE" on a separate line.(ÅšìŸ
+B
+java:S1659")Declare "ACC_PRIVATE" on a separate line.(ÂşÍ”şÿÿÿÿ
+l	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ãÿö
+D
+java:S1659"+Declare "REF_putStatic" on a separate line.(§³¾×úÿÿÿÿ
+C
+java:S1659"0Declare "CONSTANT_Methodref" on a separate line.(¶ıŠu
+K
+java:S1659"2Declare "CONSTANT_NameAndType" on a separate line.(ˆäğşÿÿÿÿ
+<
+java:S1659"(Declare "ACC_NATIVE" on a separate line.(é¥şà
+r	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Î³ûÑúÿÿÿÿ
+m	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(İ—áÌ
+r	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»‡äÍÿÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(”Ù˜ú
+=
+java:S1659"$Declare "T_CHAR" on a separate line.(½„ùúÿÿÿÿ
+<
+java:S1659"(Declare "ACC_STATIC" on a separate line.(•Ş›
+D
+java:S1659"+Declare "REF_getStatic" on a separate line.(‚úÑ»ıÿÿÿÿ
+G
+java:S1659".Declare "REF_invokeStatic" on a separate line.(œß¹Ïùÿÿÿÿ
+9
+java:S1659"%Declare "T_SHORT" on a separate line.(óé¤ø
+A
+java:S1481"(Remove this unused "err" local variable.(Öøÿÿÿÿ
+D
+java:S1659"+Declare "ACC_INTERFACE" on a separate line.(ª€¿éşÿÿÿÿ
+E
+java:S1659",Declare "CONSTANT_LIMIT" on a separate line.(£–°ıÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(û¡ÈÚıÿÿÿÿ
+r	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œß¹Ïùÿÿÿÿ
+m	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œé 
+@
+java:S1659"'Declare "T_ILLEGAL" on a separate line.(¦£ŒÆüÿÿÿÿ
+@
+java:S1659"'Declare "ACC_FINAL" on a separate line.(÷ÄÔ‹üÿÿÿÿ
+m	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â³à°
+T
+java:S1193"@Replace the usage of the "instanceof" operator by a catch block.(øÔªÑ
+L
+java:S1659"3Declare "CONSTANT_MethodHandle" on a separate line.(»‡äÍÿÿÿÿÿ
+m	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÌÙ‰ı
+r	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”ŞÚÿùÿÿÿÿ
+m	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ËÑş
+r	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(İà×æùÿÿÿÿ
+E
+java:S1659",Declare "ACC_ANNOTATION" on a separate line.(¨ı‡¸ùÿÿÿÿ
+>
+java:S1181"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
+M
+java:S1659"9Declare "CONSTANT_InterfaceMethodref" on a separate line.(£¥ì¬
+E
+java:S1659"1Declare "REF_invokeInterface" on a separate line.(œé 
+C
+java:S1659"/Declare "GC_LAMBDA_SUPPORT" on a separate line.(‰”İ±
+G
+java:S1659"4Declare "MN_SEARCH_SUPERCLASSES" on a separate line.(ÛË¢
+@
+java:S1659",Declare "CONSTANT_Float" on a separate line.(ßëùÍ
+/
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ
+K
+java:S1659"2Declare "REF_newInvokeSpecial" on a separate line.(ŠÈëøÿÿÿÿ
+B
+java:S1659".Declare "CONSTANT_Integer" on a separate line.(â³à°
+L	java:S106"9Replace this use of System.out or System.err by a logger.(±ÆÜ™
+:
+java:S1659"&Declare "T_DOUBLE" on a separate line.(®¯Ôé
+r	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŠÈëøÿÿÿÿ
+A
+java:S1659"(Declare "ACC_STRICT" on a separate line.(¯ÂÖıÿÿÿÿ
+@
+java:S1659"-Declare "CONSTANT_Double" on a separate line.(Ãÿö
+H
+java:S1659"/Declare "MN_IS_CONSTRUCTOR" on a separate line.(’º„ñşÿÿÿÿ
+8
+java:S1659"$Declare "T_LONG" on a separate line.(Èò†ø
+H
+java:S1659"/Declare "CONSTANT_Fieldref" on a separate line.(©üËøüÿÿÿÿ
+>
+java:S1181"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ø—ä”úÿÿÿÿ
+@
+java:S1659"'Declare "REF_LIMIT" on a separate line.(¶ìêáøÿÿÿÿ
+r	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ø±‘¤ûÿÿÿÿ
+F
+java:S1659"-Declare "CONSTANT_String" on a separate line.(Î³ûÑúÿÿÿÿ
+:
+java:S1659"&Declare "ACC_ENUM" on a separate line.(ÖÏ³
+>
+java:S1659"*Declare "REF_putField" on a separate line.(ËÑş
+K
+java:S1659"2Declare "MN_SEARCH_INTERFACES" on a separate line.(¢Ñ•çøÿÿÿÿ
+>
+java:S1181"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
+?
+java:S1659"+Declare "CONSTANT_Long" on a separate line.(‘«Çù
+N
+java:S1659"5Declare "MN_REFERENCE_KIND_SHIFT" on a separate line.(ìô˜¥úÿÿÿÿ
+7
+java:S1659"#Declare "T_INT" on a separate line.(äĞ¬‰
+M
+java:S1659"4Declare "CONSTANT_InvokeDynamic" on a separate line.(İà×æùÿÿÿÿ
+J
+java:S1659"1Declare "MN_CALLER_SENSITIVE" on a separate line.(¸íµğüÿÿÿÿ
+r	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©üËøüÿÿÿÿ
+8
+java:S1659"$Declare "T_VOID" on a separate line.(ßÇÄ
+@
+java:S1659",Declare "CONSTANT_Class" on a separate line.(İ—áÌ
+D
+java:S1659"+Declare "ACC_PROTECTED" on a separate line.(×™¨øÿÿÿÿ
+=
+java:S1659")Declare "ACC_VARARGS" on a separate line.(ÛÅ·é
+C
+java:S1659"*Declare "REF_getField" on a separate line.(”ŞÚÿùÿÿÿÿ
+=
+java:S1659")Declare "MN_IS_FIELD" on a separate line.(£ÈÆ€
+?
+java:S1659"&Declare "T_OBJECT" on a separate line.(Ú‡ÿÿÿÿÿ
+<
+java:S1659"*Declare "ACC_ABSTRACT" on a separate line.(•¦J
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(í¬¶ûÿÿÿÿ
+q	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ó ü£øÿÿÿÿ
+r	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆäğşÿÿÿÿ
+r	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(§³¾×úÿÿÿÿ
+l	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¶ıŠu
+;
+java:S1659"'Declare "ACC_SUPER" on a separate line.(Å§¹¬
+A
+java:S1659"(Declare "ACC_BRIDGE" on a separate line.(¶€Àıÿÿÿÿ

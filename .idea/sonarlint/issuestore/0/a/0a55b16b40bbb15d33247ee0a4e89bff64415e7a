@@ -1,0 +1,80 @@
+
+S
+java:S1854":Remove this useless assignment to local variable "result".(Ó­»¡þÿÿÿÿ
+_
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ü‚æë
+l
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(·ý¥Ñüÿÿÿÿ
+5	java:S131""Add a default case to this switch.(ü‚æë
+F
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(ù½Šö
+f
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÞÄ€
+G
+java:S1659".Declare "CALLER_SENSITIVE" on a separate line.(³‘øÙýÿÿÿÿ
+F
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+8
+java:S1659"%Declare "IS_TYPE" on a separate line.(ÍÛÅR
+5	java:S131""Add a default case to this switch.(äŒ€
+l
+java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Òèçþÿÿÿÿ
+:	java:S131""Add a default case to this switch.(™¤ø‹þÿÿÿÿ
+N
+java:S1191"5Use classes from the Java API instead of Sun classes.(–èœýÿÿÿÿ
+X
+java:S3358"DExtract this nested ternary operation into an independent statement.(ë«±ò
+\
+java:S2259"CA "NullPointerException" could be thrown; "mtype" is nullable here.(€Üàïùÿÿÿÿ
+5	java:S131""Add a default case to this switch.(ü‚æë
+9
+java:S3398" Move this method into "Factory".(÷­ªèùÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(Û“¤
+L
+java:S1117"8Rename "type" which hides the field declared at line 75.(·ÏÍ£
+e
+java:S2259"LA "NullPointerException" could be thrown; "getMethodType()" can return null.( ¤Û•ûÿÿÿÿ
+?
+java:S1659"&Declare "IS_FIELD" on a separate line.(èŸßýûÿÿÿÿ
+M
+java:S3516"9Refactor this method to not always return the same value.(º®ÅŒ
+Z
+java:S2259"FA "NullPointerException" could be thrown; "getName()" can return null.(ÜÒæ°
+M
+java:S1117"9Rename "flags" which hides the field declared at line 76.(ü‚íö
+L
+java:S1117"8Rename "type" which hides the field declared at line 75.(ŒºŠÌ
+[
+java:S2259"BA "NullPointerException" could be thrown; "type" is nullable here.(¡º’Ùùÿÿÿÿ
+3
+java:S3398" Move this method into "Factory".(„Åöq
+W
+java:S2259"CA "NullPointerException" could be thrown; "mtype" is nullable here.(€±æ¯
+Q
+java:S1117"8Rename "type" which hides the field declared at line 75.(Ü¨êèÿÿÿÿÿ
+Q
+java:S1117"8Rename "name" which hides the field declared at line 74.(Ò­ð‘ùÿÿÿÿ
+Z
+java:S1126"AReplace this if-then-else statement by a single return statement.(ä­ï·üÿÿÿÿ
+Q
+java:S1117"8Rename "type" which hides the field declared at line 75.(ÀÂµêýÿÿÿÿ
+\
+java:S2259"CA "NullPointerException" could be thrown; "itype" is nullable here.(ãªÑ£ûÿÿÿÿ
+W
+java:S2259"CA "NullPointerException" could be thrown; "itype" is nullable here.(ˆë¥õ
+Q
+java:S1117"8Rename "type" which hides the field declared at line 75.(ÀÂµêýÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(ìôÔ³ùÿÿÿÿ
+a	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(µ ¤¤øÿÿÿÿ
+Q
+java:S1117"8Rename "type" which hides the field declared at line 75.(•ïüöûÿÿÿÿ
+\
+java:S2259"CA "NullPointerException" could be thrown; "mtype" is nullable here.(ä­ï·üÿÿÿÿ
+_
+java:S2259"LA "NullPointerException" could be thrown; "getMethodType()" can return null.(Üòû>
+q
+java:S3008"XRename this field "ALLOWED_FLAGS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ©‡óüÿÿÿÿ
+@
+java:S1659",Declare "IS_CONSTRUCTOR" on a separate line.(ü˜°¤
+O	java:S125"<This block of commented-out lines of code should be removed.(¼†Ü¢

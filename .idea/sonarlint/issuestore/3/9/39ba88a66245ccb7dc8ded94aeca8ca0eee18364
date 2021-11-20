@@ -1,0 +1,231 @@
+
+K
+java:S1066ê"/Merge this if statement with the enclosing one.(‰Ûø“úÿÿÿÿ
+U
+java:S4973İ	"9Use the "equals" method if value comparison was intended.(øÔ· üÿÿÿÿ
+P
+java:S4973à	"9Use the "equals" method if value comparison was intended.(Ó”¥
+p	java:S115©"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñÚÍñ
+8
+java:S1948v""Make "items" private or transient.(²²œ¢
+{
+java:S1149v"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(²²œ¢
+O
+java:S1197›"8Move the array designator from the variable to the type.(Ÿò‚ø
+|
+java:S1130»"eRemove the declaration of thrown exception 'java.awt.HeadlessException' which is a runtime exception.(ä¨Ğ
+|
+java:S1130Ì"eRemove the declaration of thrown exception 'java.awt.HeadlessException' which is a runtime exception.(™“…ä
+a
+java:S1124Ô"EReorder the modifiers to comply with the Java Language Specification.(£§‰øûÿÿÿÿ
+|
+java:S1130è"eRemove the declaration of thrown exception 'java.awt.HeadlessException' which is a runtime exception.(áÕ
+V
+java:S1161ò":Add the "@Override" annotation above this method signature(Àÿ¨Öıÿÿÿÿ
+V
+java:S1161ü":Add the "@Override" annotation above this method signature(Åáçİøÿÿÿÿ
+Q
+java:S1161ˆ":Add the "@Override" annotation above this method signature(û”¾†
+H
+java:S1874™"2Remove this use of "countItems"; it is deprecated.(€íº
+L
+java:S1133¡"5Do not forget to remove this deprecated code someday.(ê¦‹ 
+T
+java:S1197Á"8Move the array designator from the variable to the type.(™ş›ùÿÿÿÿ
+K
+java:S1874Ì"/Remove this use of "addItem"; it is deprecated.(íäâáûÿÿÿÿ
+L
+java:S1133Ó"5Do not forget to remove this deprecated code someday.(ãáòÁ
+K
+java:S1874å"/Remove this use of "addItem"; it is deprecated.(‚Œ Ÿûÿÿÿÿ
+Q
+java:S1133ì"5Do not forget to remove this deprecated code someday.(©ÊÆ«ùÿÿÿÿ
+I
+java:S1874•"-Remove this use of "clear"; it is deprecated.(Ê—´¨øÿÿÿÿ
+Q
+java:S1133"5Do not forget to remove this deprecated code someday.(ôÃ°áùÿÿÿÿ
+E
+java:S1874Æ"/Remove this use of "delItem"; it is deprecated.(ïáŒi
+Q
+java:S1133Î"5Do not forget to remove this deprecated code someday.(ŸüŞ”øÿÿÿÿ
+O
+java:S1197İ"8Move the array designator from the variable to the type.(İ¹Ê
+O
+java:S1197‹"8Move the array designator from the variable to the type.(İ¹Ê
+T
+java:S1197Œ"8Move the array designator from the variable to the type.(â´‹œüÿÿÿÿ
+T
+java:S1197Ï"8Move the array designator from the variable to the type.(¿â³™úÿÿÿÿ
+O
+java:S1197ñ"8Move the array designator from the variable to the type.(­›µù
+I
+java:S1874…"2Remove this use of "isSelected"; it is deprecated.(ó¼ƒ
+L
+java:S1133"5Do not forget to remove this deprecated code someday.(“é‹
+O
+java:S1197"8Move the array designator from the variable to the type.(İ¹Ê
+\
+java:S1874©"@Remove this use of "allowsMultipleSelections"; it is deprecated.(‘ƒÄ’şÿÿÿÿ
+L
+java:S1133±"5Do not forget to remove this deprecated code someday.(õÊ¦‹
+S
+java:S1874Ä"=Remove this use of "setMultipleSelections"; it is deprecated.(ƒê‡r
+Q
+java:S1133Ì"5Do not forget to remove this deprecated code someday.(¤ÂÂˆûÿÿÿÿ
+Q
+java:S1874÷"5Remove this use of "preferredSize"; it is deprecated.(ˆóàŞüÿÿÿÿ
+K
+java:S1133ÿ"5Do not forget to remove this deprecated code someday.(¾ÅŒU
+V
+java:S1161":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ
+Q
+java:S1874"5Remove this use of "preferredSize"; it is deprecated.(Ä–‡Ğıÿÿÿÿ
+Q
+java:S1161—":Add the "@Override" annotation above this method signature(õ‚ğ
+L
+java:S1133—"5Do not forget to remove this deprecated code someday.(õ‚ğ
+I
+java:S1874©"3Remove this use of "minimumSize"; it is deprecated.(Ó¾Ç!
+Q
+java:S1133±"5Do not forget to remove this deprecated code someday.(»»é±ıÿÿÿÿ
+V
+java:S1161Á":Add the "@Override" annotation above this method signature(¸©°úÿÿÿÿ
+O
+java:S1874Â"3Remove this use of "minimumSize"; it is deprecated.(Ğ÷†×ûÿÿÿÿ
+V
+java:S1161Ê":Add the "@Override" annotation above this method signature(ùºµËùÿÿÿÿ
+Q
+java:S1133Ê"5Do not forget to remove this deprecated code someday.(ùºµËùÿÿÿÿ
+Q
+java:S1161ö":Add the "@Override" annotation above this method signature(š‚
+V
+java:S1161ƒ":Add the "@Override" annotation above this method signature( ´üúÿÿÿÿ
+X
+java:S1126†"AReplace this if-then-else statement by a single return statement.(ñÎ¢
+X
+java:S1126Œ"AReplace this if-then-else statement by a single return statement.(ÀşšŞ
+Q
+java:S1161ª":Add the "@Override" annotation above this method signature(şò¸¦
+Q
+java:S1161ø":Add the "@Override" annotation above this method signature(´Ã°Ó
+Q
+java:S1133ƒ	"5Do not forget to remove this deprecated code someday.(Ìš½çÿÿÿÿÿ
+|
+java:S1130Ô	"eRemove the declaration of thrown exception 'java.awt.HeadlessException' which is a runtime exception.(ê¡û
+—
+java:S1186“
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( Â–-
+
+java:S1186–
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(è¥–şÿÿÿÿ
+Q
+java:S1161 
+":Add the "@Override" annotation above this method signature(•Ñ—
+V
+java:S1161¯
+":Add the "@Override" annotation above this method signature(ŠÏ‘æÿÿÿÿÿ
+V
+java:S1161¹
+":Add the "@Override" annotation above this method signature(°³ä´ûÿÿÿÿ
+Q
+java:S1161Ä
+":Add the "@Override" annotation above this method signature(ôñ«Ò
+Q
+java:S1161Î
+":Add the "@Override" annotation above this method signature(À¦ÜŞ
+V
+java:S1161à
+":Add the "@Override" annotation above this method signature(„íªÔüÿÿÿÿ
+O
+java:S1197­"8Move the array designator from the variable to the type.(„·ëÇ
+[
+java:S1134Ñ"DTake the required action to fix the issue indicated by this comment.(¶šı½
+V
+java:S1161õ":Add the "@Override" annotation above this method signature(ŠÏ‘æÿÿÿÿÿ
+Q
+java:S1161†":Add the "@Override" annotation above this method signature(•Ñ—
+Q
+java:S1161š":Add the "@Override" annotation above this method signature(ã–Èõ
+V
+java:S1161¨":Add the "@Override" annotation above this method signature(õ³Øÿøÿÿÿÿ
+Q
+java:S1161±":Add the "@Override" annotation above this method signature(ôñ«Ò
+Q
+java:S1161¿":Add the "@Override" annotation above this method signature(À¦ÜŞ
+V
+java:S1161Ï":Add the "@Override" annotation above this method signature(ƒ£ˆËøÿÿÿÿ
+Q
+java:S1161Ù":Add the "@Override" annotation above this method signature(ß„œÈ
+V
+java:S1161ä":Add the "@Override" annotation above this method signature(‚Á©¦ùÿÿÿÿ
+V
+java:S1161î":Add the "@Override" annotation above this method signature(©Â±µıÿÿÿÿ
+Q
+java:S1161ø":Add the "@Override" annotation above this method signature(†˜´×
+Q
+java:S1161…":Add the "@Override" annotation above this method signature(  ×ˆ
+V
+java:S1161":Add the "@Override" annotation above this method signature(¿šóØøÿÿÿÿ
+V
+java:S1161™":Add the "@Override" annotation above this method signature(·ÌŸàûÿÿÿÿ
+P
+java:S1161¤":Add the "@Override" annotation above this method signature(•¾«U
+V
+java:S1161³":Add the "@Override" annotation above this method signature(ï¬Çõùÿÿÿÿ
+V
+java:S1161½":Add the "@Override" annotation above this method signature(¾Îâşùÿÿÿÿ
+P
+java:S1161Ğ":Add the "@Override" annotation above this method signature(ãøË5
+[
+java:S1134Ñ"DTake the required action to fix the issue indicated by this comment.(ùœ¯
+R	java:S125Ó"<This block of commented-out lines of code should be removed.(˜êºù
+V
+java:S1161Ü":Add the "@Override" annotation above this method signature(Ö³›¥üÿÿÿÿ
+[
+java:S1134İ"DTake the required action to fix the issue indicated by this comment.(º™™›
+V
+java:S1161ë":Add the "@Override" annotation above this method signature(ùùì¹şÿÿÿÿ
+`
+java:S1134ì"DTake the required action to fix the issue indicated by this comment.(•ïëïüÿÿÿÿ
+W	java:S125î"<This block of commented-out lines of code should be removed.(òôº×üÿÿÿÿ
+Q
+java:S1161û":Add the "@Override" annotation above this method signature(¼±€š
+`
+java:S1134ü"DTake the required action to fix the issue indicated by this comment.(–×ƒ…üÿÿÿÿ
+W	java:S125ş"<This block of commented-out lines of code should be removed.(Àë¯ùÿÿÿÿ
+V
+java:S1161‰":Add the "@Override" annotation above this method signature(Å‚ÆØùÿÿÿÿ
+`
+java:S1134Š"DTake the required action to fix the issue indicated by this comment.(òÑ³šúÿÿÿÿ
+V
+java:S1161™":Add the "@Override" annotation above this method signature(©öñ÷üÿÿÿÿ
+`
+java:S1134š"DTake the required action to fix the issue indicated by this comment.(¢°˜üÿÿÿÿ
+V
+java:S1161£":Add the "@Override" annotation above this method signature(Š¨¾ëøÿÿÿÿ
+[
+java:S1134¤"DTake the required action to fix the issue indicated by this comment.(Æº½†
+Q
+java:S1161°":Add the "@Override" annotation above this method signature(Ãæ’
+`
+java:S1134±"DTake the required action to fix the issue indicated by this comment.(¢°˜üÿÿÿÿ
+V
+java:S1161½":Add the "@Override" annotation above this method signature(ËÆ”ªúÿÿÿÿ
+Q
+java:S1161Ë":Add the "@Override" annotation above this method signature(ş¡‹°
+`
+java:S1134Ì"DTake the required action to fix the issue indicated by this comment.(¢°˜üÿÿÿÿ
+V
+java:S1161Ö":Add the "@Override" annotation above this method signature(×¹Ì©ÿÿÿÿÿ
+V
+java:S1161ã":Add the "@Override" annotation above this method signature(°³ä´ûÿÿÿÿ
+V
+java:S1161ó":Add the "@Override" annotation above this method signature(‹Ä­ˆùÿÿÿÿ
+Q
+java:S1161ı":Add the "@Override" annotation above this method signature(Ûï„´
+Q
+java:S1161ˆ":Add the "@Override" annotation above this method signature(îòÅÿ
+V
+java:S1161“":Add the "@Override" annotation above this method signature(ÆœÊ¬şÿÿÿÿ
+Y
+java:S1068™	"=Remove this unused "listSerializedDataVersion" private field.(û–›Áüÿÿÿÿ

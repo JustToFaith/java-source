@@ -1,0 +1,176 @@
+
+J
+java:S1444*"/Make this "public static xrgbmodel" field final(ƒÑø¤ıÿÿÿÿ
+E
+java:S1444,"/Make this "public static argbmodel" field final(ºÖİİ
+K
+java:S1191%"5Use classes from the Java API instead of Sun classes.(Øÿ¸†
+X	java:S107º"=Method has 16 parameters, which is greater than 7 authorized.(ÿ¼‹—ùÿÿÿÿ
+g	java:S117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¼ò‰
+l	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÃ¦Çûÿÿÿÿ
+p
+java:S1104*"UMake xrgbmodel a static final constant or non-public and provide accessors if needed.(ƒÑø¤ıÿÿÿÿ
+k
+java:S1104,"UMake argbmodel a static final constant or non-public and provide accessors if needed.(ºÖİİ
+E
+java:S1121·".Extract the assignment out of this expression.(ôÉÉÙ
+J
+java:S1121Ú".Extract the assignment out of this expression.(ÜÍ«Àüÿÿÿÿ
+E
+java:S1121Ş".Extract the assignment out of this expression.(‚ÏÇˆ
+J
+java:S1121á".Extract the assignment out of this expression.(é€¥¦ûÿÿÿÿ
+E
+java:S1121å".Extract the assignment out of this expression.(ú˜«æ
+J
+java:S1121ê".Extract the assignment out of this expression.(¬ª±şÿÿÿÿ
+E
+java:S1121î".Extract the assignment out of this expression.(“öÿ
+J
+java:S1121ñ".Extract the assignment out of this expression.(ÓˆâÍşÿÿÿÿ
+E
+java:S1121õ".Extract the assignment out of this expression.(­ÊŠ„
+E
+java:S1121¿".Extract the assignment out of this expression.(ôÉÉÙ
+J
+java:S1121Ò".Extract the assignment out of this expression.(ÜÍ«Àüÿÿÿÿ
+E
+java:S1121Ö".Extract the assignment out of this expression.(‚ÏÇˆ
+J
+java:S1121Ù".Extract the assignment out of this expression.(é€¥¦ûÿÿÿÿ
+E
+java:S1121İ".Extract the assignment out of this expression.(ú˜«æ
+J
+java:S1121â".Extract the assignment out of this expression.(¬ª±şÿÿÿÿ
+E
+java:S1121æ".Extract the assignment out of this expression.(“öÿ
+J
+java:S1121é".Extract the assignment out of this expression.(ÓˆâÍşÿÿÿÿ
+E
+java:S1121í".Extract the assignment out of this expression.(­ÊŠ„
+J
+java:S1121À".Extract the assignment out of this expression.(ÜÍ«Àüÿÿÿÿ
+E
+java:S1121Ä".Extract the assignment out of this expression.(‚ÏÇˆ
+J
+java:S1121Ç".Extract the assignment out of this expression.(é€¥¦ûÿÿÿÿ
+E
+java:S1121Ë".Extract the assignment out of this expression.(ú˜«æ
+J
+java:S1121Ï".Extract the assignment out of this expression.(¬ª±şÿÿÿÿ
+E
+java:S1121Ó".Extract the assignment out of this expression.(“öÿ
+J
+java:S1121Ö".Extract the assignment out of this expression.(ÓˆâÍşÿÿÿÿ
+E
+java:S1121Ú".Extract the assignment out of this expression.(­ÊŠ„
+J
+java:S1121›".Extract the assignment out of this expression.(ÜÍ«Àüÿÿÿÿ
+E
+java:S1121Ÿ".Extract the assignment out of this expression.(‚ÏÇˆ
+J
+java:S1121¢".Extract the assignment out of this expression.(é€¥¦ûÿÿÿÿ
+E
+java:S1121¦".Extract the assignment out of this expression.(ú˜«æ
+J
+java:S1121ª".Extract the assignment out of this expression.(¬ª±şÿÿÿÿ
+E
+java:S1121®".Extract the assignment out of this expression.(“öÿ
+J
+java:S1121±".Extract the assignment out of this expression.(ÓˆâÍşÿÿÿÿ
+E
+java:S1121µ".Extract the assignment out of this expression.(­ÊŠ„
+h
+java:S3776E"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(“Á½Ğ
+i
+java:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(úç«Å
+\
+java:S1124ğ"EReorder the modifiers to comply with the Java Language Specification.(úç«Å
+\
+java:S1124”"EReorder the modifiers to comply with the Java Language Specification.(î¥±Ë
+a
+java:S1124¡"EReorder the modifiers to comply with the Java Language Specification.(‰ş²Æüÿÿÿÿ
+a
+java:S1124²"EReorder the modifiers to comply with the Java Language Specification.(¡˜ñ£ûÿÿÿÿ
+N
+java:S1197Ò"8Move the array designator from the variable to the type.(Àš¢`
+;
+java:S1659×"$Declare "accumR" on a separate line.(é²š
+;
+java:S1659×"$Declare "accumG" on a separate line.(é²š
+;
+java:S1659×"$Declare "accumB" on a separate line.(é²š
+7
+java:S1110é"!Remove these useless parentheses.(ÿæÃV
+=
+java:S1110ò"!Remove these useless parentheses.(í øÿÿÿÿ
+T
+java:S1197÷"8Move the array designator from the variable to the type.(²Ä‡üÿÿÿÿ
+T
+java:S1197ú"8Move the array designator from the variable to the type.(ê¨Æûşÿÿÿÿ
+i
+java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 76 to the 15 allowed.(÷† Ø
+R
+java:S1117™";Rename "inData" which hides the field declared at line 375.(ôô”Å
+R
+java:S1117š"<Rename "outData" which hides the field declared at line 378.(ƒ®Òp
+W
+java:S1117œ";Rename "inSpan" which hides the field declared at line 377.(çØİ­ÿÿÿÿÿ
+V
+java:S1117":Rename "inOff" which hides the field declared at line 376.(ñÂĞ˜ıÿÿÿÿ
+X
+java:S1117"<Rename "outSpan" which hides the field declared at line 380.(¦³Öîøÿÿÿÿ
+Q
+java:S1117Ÿ";Rename "filter" which hides the field declared at line 381.(›ˆôP
+O
+java:S1197©"8Move the array designator from the variable to the type.(‹İ¢
+?
+java:S1659Ê"#Declare "nexty" on a separate line.(¡‹áéÿÿÿÿÿ
+O
+java:S1197ÿ"8Move the array designator from the variable to the type.(íÉ¨ü
+T
+java:S1197‚"8Move the array designator from the variable to the type.(¿ğ€üÿÿÿÿ
+V
+java:S1161™":Add the "@Override" annotation above this method signature(¹Ïƒıÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(÷† Ø
+W
+java:S1117£";Rename "inData" which hides the field declared at line 511.(éŞšóùÿÿÿÿ
+S
+java:S1117¤"<Rename "outData" which hides the field declared at line 514.(óë£å
+W
+java:S1117¦";Rename "inSpan" which hides the field declared at line 513.(çØİ­ÿÿÿÿÿ
+V
+java:S1117§":Rename "inOff" which hides the field declared at line 512.(ñÂĞ˜ıÿÿÿÿ
+X
+java:S1117¨"<Rename "outSpan" which hides the field declared at line 516.(¦³Öîøÿÿÿÿ
+T
+java:S1197÷"8Move the array designator from the variable to the type.(íÁÏºûÿÿÿÿ
+O
+java:S1197ø"8Move the array designator from the variable to the type.(íÉ¨ü
+T
+java:S1197û"8Move the array designator from the variable to the type.(ê¨Æûşÿÿÿÿ
+i
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(÷† Ø
+W
+java:S1117";Rename "inData" which hides the field declared at line 632.(éŞšóùÿÿÿÿ
+R
+java:S1117Ÿ"<Rename "outData" which hides the field declared at line 635.(ƒ®Òp
+W
+java:S1117¡";Rename "inSpan" which hides the field declared at line 634.(çØİ­ÿÿÿÿÿ
+V
+java:S1117¢":Rename "inOff" which hides the field declared at line 633.(ñÂĞ˜ıÿÿÿÿ
+X
+java:S1117£"<Rename "outSpan" which hides the field declared at line 637.(¦³Öîøÿÿÿÿ
+N
+java:S1197¨"8Move the array designator from the variable to the type.(çœÍT
+?
+java:S1659¯"#Declare "nexty" on a separate line.(¡‹áéÿÿÿÿÿ
+i
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(÷† Ø
+R
+java:S1117ı";Rename "srcRas" which hides the field declared at line 739.(¥é¹ë
+O
+java:S1197ÿ"8Move the array designator from the variable to the type.(‹İ¢
+?
+java:S1659ˆ"#Declare "nexty" on a separate line.(¡‹áéÿÿÿÿÿ

@@ -1,0 +1,159 @@
+
+O
+java:S1197§"8Move the array designator from the variable to the type.(›­ì§
+n
+java:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ƒÛï³ıÿÿÿÿ
+\
+java:S4973±"9Use the "equals" method if value comparison was intended.(‘·Áıÿÿÿÿ8Ûôõá.
+O
+java:S1197·"8Move the array designator from the variable to the type.(î¶çö
+T
+java:S1197È
+"8Move the array designator from the variable to the type.(·Ş‰øÿÿÿÿ
+O
+java:S1197ÿ
+"8Move the array designator from the variable to the type.(Æâ‘ş
+R
+java:S1119ã";Refactor the code to remove this label and the need for it.(‰á„‰
+o
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ä¬Ãj8Ûôõá.
+[
+java:S1197É"8Move the array designator from the variable to the type.(“€Í‰ÿÿÿÿÿ8Ûôõá.
+O
+java:S1197õ"8Move the array designator from the variable to the type.(ÕãıŸ
+Y	java:S125¾"<This block of commented-out lines of code should be removed.(ÙĞ“Ö8Ûôõá.
+U
+java:S1197ù"8Move the array designator from the variable to the type.(•‡Œ 8Ûôõá.
+\
+java:S4973±"9Use the "equals" method if value comparison was intended.(‘·Áıÿÿÿÿ8Ûôõá.
+H
+java:S1172ã",Remove this unused method parameter "share".(£çñÿÿÿÿÿ
+O
+java:S1197ÿ"8Move the array designator from the variable to the type.(íìÉé
+V
+java:S1197á"8Move the array designator from the variable to the type.(µ‚Ö8Ûôõá.
+T
+java:S1197Š	"8Move the array designator from the variable to the type.(£‚èüÿÿÿÿ
+w
+java:S3012ª"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Â¼˜8Ûôõá.
+L
+java:S1121¯".Extract the assignment out of this expression.(æêÿô8Ûôõá.
+T
+java:S1197ş"8Move the array designator from the variable to the type.(¾’ºîøÿÿÿÿ
+V
+java:S1117«":Rename "value" which hides the field declared at line 114.(•¸¢ùÿÿÿÿÿ
+p
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(¿İÂØ8Ûôõá.
+Q
+java:S1117Ç":Rename "value" which hides the field declared at line 114.(óœ¢‡
+p
+java:S3776£"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(­şšŞ8Ûôõá.
+T
+java:S1197Å"8Move the array designator from the variable to the type.(¯æâıùÿÿÿÿ
+O
+java:S1197€
+"8Move the array designator from the variable to the type.(Æâ‘ş
+T
+java:S1197‚
+"8Move the array designator from the variable to the type.(·Ş‰øÿÿÿÿ
+D
+java:S1125Ö"(Remove the literal "true" boolean value.(èÒÀïÿÿÿÿÿ
+V
+java:S1197İ"8Move the array designator from the variable to the type.(„Å‚Ö8Ûôõá.
+T
+java:S1197À"8Move the array designator from the variable to the type.(£ëÎ–ÿÿÿÿÿ
+^
+java:S1119”";Refactor the code to remove this label and the need for it.(”¬® øÿÿÿÿ8Ûôõá.
+U
+java:S1197ò"8Move the array designator from the variable to the type.(ÁÛôP8Ûôõá.
+W	java:S125ä"<This block of commented-out lines of code should be removed.(¹Ùí¥şÿÿÿÿ
+T
+java:S1197İ"8Move the array designator from the variable to the type.(£‚èüÿÿÿÿ
+v
+java:S1149Ä"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ËØ¯ò
+O
+java:S1197§"8Move the array designator from the variable to the type.(äßòİ
+T
+java:S1197Í"8Move the array designator from the variable to the type.(ÅèÙÄÿÿÿÿÿ
+O
+java:S1197’"8Move the array designator from the variable to the type.(«ÀñË
+V
+java:S1197¨"8Move the array designator from the variable to the type.(¢ÿ›¢8Ûôõá.
+T
+java:S1197¬"8Move the array designator from the variable to the type.(¾’ºîøÿÿÿÿ
+2
+java:S3626‰"Remove this redundant jump.(ÉŠ©ƒ
+b
+java:S2445Å"K"buffer" is a method parameter, and should not be used for synchronization.(ùıÌ–
+v
+java:S1149ù"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(µÈ¸‘
+\
+java:S4973Ò"9Use the "equals" method if value comparison was intended.(‘·Áıÿÿÿÿ8Ûôõá.
+s	java:S127ñ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ôèñ¹ÿÿÿÿÿ
+S
+java:S1197r"8Move the array designator from the variable to the type.(”ÀÄ¿ÿÿÿÿÿ
+L
+java:S1121¬".Extract the assignment out of this expression.(Áá¸œ8Ûôõá.
+O
+java:S1197ë"8Move the array designator from the variable to the type.(è¨õË
+\
+java:S4973Ò"9Use the "equals" method if value comparison was intended.(‘·Áıÿÿÿÿ8Ûôõá.
+O
+java:S1197í"8Move the array designator from the variable to the type.(Èú¦
+V
+java:S1117š":Rename "value" which hides the field declared at line 114.(•¸¢ùÿÿÿÿÿ
+V
+java:S1117ù":Rename "value" which hides the field declared at line 114.(•¸¢ùÿÿÿÿÿ
+u
+java:S3776«"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(°ŠØ’şÿÿÿÿ8Ûôõá.
+[
+java:S1197ı"8Move the array designator from the variable to the type.(ŒÕË¸ûÿÿÿÿ8Ûôõá.
+n
+java:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Æ•÷şÿÿÿÿ
+T
+java:S1197Ü"8Move the array designator from the variable to the type.(¾’ºîøÿÿÿÿ
+T
+java:S1197‰	"8Move the array designator from the variable to the type.(¾’ºîøÿÿÿÿ
+T
+java:S1197´"8Move the array designator from the variable to the type.(Ó°ù³şÿÿÿÿ
+j
+java:S2095†"GUse try-with-resources or close this "Formatter" in a "finally" clause.(ËóŸØùÿÿÿÿ8Ûôõá.
+O
+java:S1197Æ
+"8Move the array designator from the variable to the type.(Æâ‘ş
+n	java:S127—"XRefactor the code in order to not assign to this loop counter from within the loop body.(ò§©Û
+\
+java:S4973±"9Use the "equals" method if value comparison was intended.(‘·Áıÿÿÿÿ8Ûôõá.
+O
+java:S1197¢"8Move the array designator from the variable to the type.(ùÏÉ¾
+V
+java:S1117‹":Rename "value" which hides the field declared at line 114.(•¸¢ùÿÿÿÿÿ
+O
+java:S1197À"8Move the array designator from the variable to the type.(çğ‡ã
+O
+java:S1197Ç"8Move the array designator from the variable to the type.(óœ¢‡
+V
+java:S1197–"8Move the array designator from the variable to the type.(Å†Ì³8Ûôõá.
+L
+java:S1133í"5Do not forget to remove this deprecated code someday.(Èú¦
+o	java:S135Ğ
+"YReduce the total number of break and continue statements in this loop to use at most one.(Ÿ“ûæ
+\
+java:S4973Ò"9Use the "equals" method if value comparison was intended.(‘·Áıÿÿÿÿ8Ûôõá.
+Q
+java:S1133Å"5Do not forget to remove this deprecated code someday.(¯æâıùÿÿÿÿ
+O
+java:S1197„"8Move the array designator from the variable to the type.(Ş¤¹
+^
+java:S1119´";Refactor the code to remove this label and the need for it.(”¬® øÿÿÿÿ8Ûôõá.
+e
+java:S2095¯"GUse try-with-resources or close this "Formatter" in a "finally" clause.(˜ÏÆğ8Ûôõá.
+U
+java:S4973Ö"9Use the "equals" method if value comparison was intended.(èÒÀïÿÿÿÿÿ
+L
+java:S1133õ"5Do not forget to remove this deprecated code someday.(ÕãıŸ
+O
+java:S1197"8Move the array designator from the variable to the type.(–³ìÀ
+v	java:S135•"YReduce the total number of break and continue statements in this loop to use at most one.(àÁ€©8Ûôõá.
+c
+java:S2445 "G"cs" is a method parameter, and should not be used for synchronization.(‘åˆÿÿÿÿÿ

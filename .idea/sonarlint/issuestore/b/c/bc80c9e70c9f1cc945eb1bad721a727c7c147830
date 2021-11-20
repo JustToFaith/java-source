@@ -1,0 +1,192 @@
+
+L
+java:S1191È"5Use classes from the Java API instead of Sun classes.(¾¯Œ÷
+K
+java:S1066ñ"/Merge this if statement with the enclosing one.(¥¦×¤ıÿÿÿÿ
+\	java:S112Ø"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+\	java:S112¯"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+n	java:S127ç"XRefactor the code in order to not assign to this loop counter from within the loop body.(«¶îÅ
+n	java:S127è"XRefactor the code in order to not assign to this loop counter from within the loop body.(›İ³Ó
+n	java:S127è"XRefactor the code in order to not assign to this loop counter from within the loop body.(›İ³Ó
+s	java:S127ë"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ÿ·–¾øÿÿÿÿ
+s	java:S127ë"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ÿ·–¾øÿÿÿÿ
+s	java:S127ˆ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¶ÚèÅıÿÿÿÿ
+n	java:S127‰"XRefactor the code in order to not assign to this loop counter from within the loop body.(Æ´¸ö
+n	java:S127‰"XRefactor the code in order to not assign to this loop counter from within the loop body.(Æ´¸ö
+n	java:S127Œ"XRefactor the code in order to not assign to this loop counter from within the loop body.(£€Ö±
+n	java:S127Œ"XRefactor the code in order to not assign to this loop counter from within the loop body.(£€Ö±
+m	java:S127Ú"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷Ñè}
+m	java:S127ï"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷Ñè}
+n	java:S127˜"XRefactor the code in order to not assign to this loop counter from within the loop body.(êÍÍü
+n	java:S127¬"XRefactor the code in order to not assign to this loop counter from within the loop body.(ïí±Ï
+m	java:S127­"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷Ñè}
+n	java:S127º"XRefactor the code in order to not assign to this loop counter from within the loop body.(»â„¨
+n	java:S127Î"XRefactor the code in order to not assign to this loop counter from within the loop body.(ïí±Ï
+m	java:S127Ï"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷Ñè}
+n	java:S127í"XRefactor the code in order to not assign to this loop counter from within the loop body.(«¶îÅ
+n	java:S127î"XRefactor the code in order to not assign to this loop counter from within the loop body.(›İ³Ó
+n	java:S127î"XRefactor the code in order to not assign to this loop counter from within the loop body.(›İ³Ó
+s	java:S127ñ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ÿ·–¾øÿÿÿÿ
+s	java:S127ñ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ÿ·–¾øÿÿÿÿ
+s	java:S127†"XRefactor the code in order to not assign to this loop counter from within the loop body.(¶ÚèÅıÿÿÿÿ
+n	java:S127‡"XRefactor the code in order to not assign to this loop counter from within the loop body.(Æ´¸ö
+n	java:S127‡"XRefactor the code in order to not assign to this loop counter from within the loop body.(Æ´¸ö
+n	java:S127Š"XRefactor the code in order to not assign to this loop counter from within the loop body.(£€Ö±
+n	java:S127Š"XRefactor the code in order to not assign to this loop counter from within the loop body.(£€Ö±
+s	java:S127¨	"XRefactor the code in order to not assign to this loop counter from within the loop body.(¶ÚèÅıÿÿÿÿ
+n	java:S127©	"XRefactor the code in order to not assign to this loop counter from within the loop body.(Æ´¸ö
+n	java:S127©	"XRefactor the code in order to not assign to this loop counter from within the loop body.(Æ´¸ö
+n	java:S127¬	"XRefactor the code in order to not assign to this loop counter from within the loop body.(£€Ö±
+n	java:S127¬	"XRefactor the code in order to not assign to this loop counter from within the loop body.(£€Ö±
+m	java:S127¸	"XRefactor the code in order to not assign to this loop counter from within the loop body.(Îò¨;
+t	java:S135É"YReduce the total number of break and continue statements in this loop to use at most one.(‰ããîüÿÿÿÿ
+o	java:S135Ş"YReduce the total number of break and continue statements in this loop to use at most one.(²¹¥
+o	java:S135à"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+o	java:S135ş"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+o	java:S135™"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+o	java:S135¸"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+t	java:S135Ã
+"YReduce the total number of break and continue statements in this loop to use at most one.(æ‰—Åüÿÿÿÿ
+E
+java:S1121è".Extract the assignment out of this expression.(›İ³Ó
+E
+java:S1121‰".Extract the assignment out of this expression.(Æ´¸ö
+E
+java:S1121â".Extract the assignment out of this expression.(Ğè³»
+J
+java:S1121€".Extract the assignment out of this expression.(â“ò½øÿÿÿÿ
+E
+java:S1121î".Extract the assignment out of this expression.(›İ³Ó
+E
+java:S1121‡".Extract the assignment out of this expression.(Æ´¸ö
+E
+java:S1121©	".Extract the assignment out of this expression.(Æ´¸ö
+n
+java:S3077†"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(æ«Öë
+s
+java:S3077”"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¹çóÏşÿÿÿÿ
+I
+java:S1659–"-Declare "NEXT_TERMINATOR" on a separate line.(”êæøÿÿÿÿ
+p	java:S115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×§Úš
+o	java:S115¡"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Ø¢
+V	java:S125s"<This block of commented-out lines of code should be removed.(›ï¹ùÿÿÿÿ
+s
+java:S3077£"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ÍñàÏşÿÿÿÿ
+n
+java:S3077¤"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(‚Ñæâ
+n
+java:S3077¥"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(³îÙ
+p	java:S115É"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³¾¶„
+u	java:S115Ê"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ú¸³Èúÿÿÿÿ
+u	java:S115Ë"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŞÔ—¸üÿÿÿÿ
+i
+java:S3776à"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(£™‘¾
+p
+java:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(×ûßî
+R
+java:S1119ä";Refactor the code to remove this label and the need for it.(©£À…
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(§­Ø™
+p
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(×ûßî
+W
+java:S1119…";Refactor the code to remove this label and the need for it.(ÃÓÛæúÿÿÿÿ
+i
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(®ğ¡
+W	java:S125¥"<This block of commented-out lines of code should be removed.(´¶«øÿÿÿÿ
+?
+java:S1659Ä"(Declare "activeSucc" on a separate line.(‚ßË
+;
+java:S1659Å"$Declare "isLast" on a separate line.(®¥Ê¶
+N
+java:S1135ò"2Complete the task associated to this TODO comment.(Øƒ’ûÿÿÿÿ
+5
+java:S2178õ"Correct this "|" to "||".(¦ƒÓáúÿÿÿÿ
+5
+java:S2178ş"Correct this "|" to "||".(ÙÖùûşÿÿÿÿ
+n
+java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÓÄŸ­ıÿÿÿÿ
+R	java:S125”"<This block of commented-out lines of code should be removed.(Ø ¹
+n
+java:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ö“¿ƒùÿÿÿÿ
+W	java:S125¶"<This block of commented-out lines of code should be removed.(—Ëéğşÿÿÿÿ
+n
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(öÀË²üÿÿÿÿ
+6
+java:S1659İ"Declare "p" on a separate line.(¡¡Ãˆ
+6
+java:S1659İ"Declare "q" on a separate line.(¡¡Ãˆ
+R
+java:S1119Ş";Refactor the code to remove this label and the need for it.(©£À…
+h
+java:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(±˜Ô:
+;
+java:S1659û"Declare "p" on a separate line.(Ù–¥ºøÿÿÿÿ
+;
+java:S1659û"Declare "q" on a separate line.(Ù–¥ºøÿÿÿÿ
+W
+java:S1119ü";Refactor the code to remove this label and the need for it.(ÃÓÛæúÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¨‡€½
+W
+java:S1119‘";Refactor the code to remove this label and the need for it.(¹ÑÎ¹ÿÿÿÿÿ
+Q	java:S125”"<This block of commented-out lines of code should be removed.(åï—p
+R
+java:S1119˜";Refactor the code to remove this label and the need for it.(—İÍÍ
+i
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ò¹ìª
+W
+java:S1119°";Refactor the code to remove this label and the need for it.(¹ÑÎ¹ÿÿÿÿÿ
+R	java:S125³"<This block of commented-out lines of code should be removed.(ÓÂÈ˜
+R
+java:S1119·";Refactor the code to remove this label and the need for it.(—İÍÍ
+I
+java:S1135Ô"2Complete the task associated to this TODO comment.(“¬Ş­
+R
+java:S1119ê";Refactor the code to remove this label and the need for it.(©£À…
+W
+java:S1119ƒ";Refactor the code to remove this label and the need for it.(ÃÓÛæúÿÿÿÿ
+u
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(•Ÿ€ûÿÿÿÿ
+p
+java:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(Èî‰¦
+;
+java:S1659Ğ"Declare "t" on a separate line.(†Ò±ùÿÿÿÿ
+p
+java:S2293Ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(±µˆ‚
+p
+java:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(º¨à
+p
+java:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").(íì‡
+i
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(˜Íşô
+9
+java:S1659•	""Declare "last" on a separate line.(¬ÿõÖ
+p
+java:S2293˜	"YReplace the type specification in this constructor call with the diamond operator ("<>").(±µˆ‚
+W
+java:S1119¥	";Refactor the code to remove this label and the need for it.(ÃÓÛæúÿÿÿÿ
+V
+java:S1161Ş
+":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+W	java:S125õ
+"<This block of commented-out lines of code should be removed.(àı‘Ïûÿÿÿÿ
+i
+java:S3776ş
+"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(÷¾˜
+[
+java:S3358‚"DExtract this nested ternary operation into an independent statement.(»³¡
+P
+java:S1161":Add the "@Override" annotation above this method signature(ºˆ¡
+V
+java:S1161Ü":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ
+u
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿÔ³“üÿÿÿÿ
+;
+java:S1659…"Declare "t" on a separate line.(†Ò±ùÿÿÿÿ
+p
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(üı…
+p
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢Öë
+u
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(°Ì—Óùÿÿÿÿ

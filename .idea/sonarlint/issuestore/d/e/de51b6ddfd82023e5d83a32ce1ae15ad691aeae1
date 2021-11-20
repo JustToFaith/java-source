@@ -1,0 +1,257 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(‘º…œøÿÿÿÿ
+o
+java:S1192 "SDefine a constant instead of duplicating this literal "addLayoutComponent" 3 times.(£ïÅ§şÿÿÿÿ
+‰
+java:S1192„"mDefine a constant instead of duplicating this literal "java.util.Collections$CheckedCollection.type" 5 times.(ºÈã»ûÿÿÿÿ
+K
+java:S1066"/Merge this if statement with the enclosing one.(ÌïóÔøÿÿÿÿ
+\	java:S112ä"FDefine and throw a dedicated exception instead of using a generic one.(“ûãØ
+e
+java:S3824‘"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(çùĞ
+d
+java:S3824Ì
+"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(é€ñ~
+h	java:S101¾"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªê”çıÿÿÿÿ
+h	java:S101Ç"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÇóØÛşÿÿÿÿ
+h	java:S101é"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÕÓ²şşÿÿÿÿ
+c	java:S101ø"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·ß‘
+c	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(İÜ¹°
+h	java:S101§"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(İ™ï¹úÿÿÿÿ
+b	java:S101ç"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Û¹£s
+c	java:S101ø"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ìğ¨Ì
+h	java:S101ş"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ı²ÓÎúÿÿÿÿ
+h	java:S101„"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ì†êíşÿÿÿÿ
+c	java:S101Š"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ş¼¦ø
+h	java:S101‘"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¦‡¢Ûûÿÿÿÿ
+h	java:S101˜"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(šœùÿÿÿÿ
+h	java:S101 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õ¯¡Ôıÿÿÿÿ
+h	java:S101§"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Éü›øÿÿÿÿ
+c	java:S101®"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ºËß
+c	java:S101µ"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬Ô‰
+h	java:S101¼"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(éÀœ»øÿÿÿÿ
+h	java:S101Ã"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(àİŠ¯ùÿÿÿÿ
+c	java:S101Ê"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÓØòª
+h	java:S101Ñ"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÖŠ¥¿øÿÿÿÿ
+h	java:S101Ø"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ĞÙ¾ûıÿÿÿÿ
+h	java:S101ß"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(±ÎŞ±ûÿÿÿÿ
+h	java:S101æ"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷‚”Éùÿÿÿÿ
+c	java:S101í"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ß¹Ó¬
+c	java:S101ô"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÈíÌ
+h	java:S101û"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ëïîøÿÿÿÿ
+b	java:S101‚"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(âÓ–
+h	java:S101Š"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸Òû¢ùÿÿÿÿ
+h	java:S101’"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯î¹«ÿÿÿÿÿ
+c	java:S101š"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(–ı²Ô
+h	java:S101¢"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÀÂşşÿÿÿÿ
+h	java:S101ª"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘°ºíıÿÿÿÿ
+c	java:S101³"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘å¯ó
+c	java:S101Â"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤ÇÊº
+b	java:S101Õ"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶Ö’^
+h	java:S101ä"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶ª¦ÿÿÿÿÿ
+c	java:S101ó"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“Íàë
+h	java:S101–"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ò–¬Üûÿÿÿÿ
+h	java:S101¼"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•ƒ¶±ùÿÿÿÿ
+h	java:S101½"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÍÆ†Óûÿÿÿÿ
+h	java:S101¾"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íİüÿÿÿÿ
+c	java:S101¿"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(À¢’ó
+h	java:S101Ã"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ƒ† ¹øÿÿÿÿ
+c	java:S101Î"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(äåˆ
+c	java:S101æ"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ş“ã
+c	java:S101«"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ßøáŞ
+h	java:S101ñ"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(»Ö‚Àùÿÿÿÿ
+h	java:S101ô"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(İ¡Êùüÿÿÿÿ
+c	java:S101÷"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†•²ú
+c	java:S101„"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¹Ò±Ç
+c	java:S101³"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(’èÎ
+h	java:S101Ö"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€Ô³üÿÿÿÿ
+h	java:S101â"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(›ö§şÿÿÿÿ
+h	java:S101î"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Æ®Áıÿÿÿÿ
+c	java:S101ú"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨Ó§í
+c	java:S101‰"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ã¡èÚ
+c	java:S101¨"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñ—í
+c	java:S101½"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¦’à¹
+c	java:S101Õ"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(»Ôïç
+c	java:S101é"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿ò¢
+c	java:S101÷"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾”§Ú
+b	java:S101ƒ	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Íàè
+c	java:S101“	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÆŒÎ§
+c	java:S101›	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨äÔô
+h	java:S101ª	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯¯à–ÿÿÿÿÿ
+c	java:S101¿	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(§†äÃ
+h	java:S101Ñ	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(òñÏúÿÿÿÿ
+h	java:S101û	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡ÄÀ ùÿÿÿÿ
+U
+java:S1155é">Use isEmpty() to check whether the collection is empty or not.(×’ŒÛ
+D
+java:S1604–"(Make this anonymous inner class a lambda(‚¸Ñ‘ıÿÿÿÿ
+E
+java:S1128%"/Remove this unused import 'java.awt.Rectangle'.(¾ª¸û
+F
+java:S1128$"+Remove this unused import 'java.awt.Point'.(îŞ˜Úüÿÿÿÿ
+S
+java:S1128""8Remove this unused import 'java.awt.GridBagConstraints'.(ıÆâ£øÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'java.awt.Dimension'.(˜‚º·
+
+java:S1149¤"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(šô÷ıÿÿÿÿ
+|
+java:S1149·"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÃşĞÜ
+r
+java:S1149Ë"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ü±÷çüÿÿÿÿ
+r
+java:S1149ˆ
+"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ƒŒ¿Ñûÿÿÿÿ
+U
+java:S1118I":Add a private constructor to hide the implicit public one.(ˆõûºÿÿÿÿÿ
+—
+java:S1186N"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Åî±½
+P
+java:S1161N":Add the "@Override" annotation above this method signature(Åî±½
+U
+java:S1161R":Add the "@Override" annotation above this method signature(Ú€ÿÿüÿÿÿÿ
+V	java:S125S"<This block of commented-out lines of code should be removed.(û”ÍÕúÿÿÿÿ
+U
+java:S1161]":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
+U
+java:S1161h":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
+U
+java:S1161s":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
+V	java:S125z"<This block of commented-out lines of code should be removed.(‹Ôè‰øÿÿÿÿ
+7
+java:S2129~"!Remove this "Integer" constructor(÷ë±å
+E
+java:S1874~"/Remove this use of "Integer"; it is deprecated.(÷ë±å
+Q
+java:S1161":Add the "@Override" annotation above this method signature(Åî±½
+=
+java:S2129„"!Remove this "Integer" constructor(È™‡Ñúÿÿÿÿ
+K
+java:S1874„"/Remove this use of "Integer"; it is deprecated.(È™‡Ñúÿÿÿÿ
+R	java:S125…"<This block of commented-out lines of code should be removed.(ŸÉ°Ô
+W	java:S125"<This block of commented-out lines of code should be removed.(ı¯”şÿÿÿÿ
+R	java:S125”"<This block of commented-out lines of code should be removed.(Øß²ü
+
+java:S1149¤"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(šô÷ıÿÿÿÿ
+V
+java:S1161Á":Add the "@Override" annotation above this method signature(Ú€ÿÿüÿÿÿÿ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(û”ÍÕúÿÿÿÿ
+V
+java:S1161È":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
+N	java:S106Ö"9Replace this use of System.out or System.err by a logger.(Ü“¼{
+V
+java:S1161ê":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
+V
+java:S1161ù":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
+V
+java:S1161‘":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
+Q
+java:S1161É":Add the "@Override" annotation above this method signature(Åî±½
+[
+java:S1124ç"EReorder the modifiers to comply with the Java Language Specification.(Û¹£s
+V
+java:S1161è":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
+Q
+java:S1161ô":Add the "@Override" annotation above this method signature(Åî±½
+V
+java:S1161Ã":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
+V
+java:S1161Ö":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
+Q
+java:S1161å":Add the "@Override" annotation above this method signature(Åî±½
+Q
+java:S1161ô":Add the "@Override" annotation above this method signature(Åî±½
+=
+java:S2129ş"!Remove this "Integer" constructor(È™‡Ñúÿÿÿÿ
+K
+java:S1874ş"/Remove this use of "Integer"; it is deprecated.(È™‡Ñúÿÿÿÿ
+Q
+java:S1161—":Add the "@Override" annotation above this method signature(Åî±½
+W	java:S125˜"<This block of commented-out lines of code should be removed.(ĞŒøüÿÿÿÿ
+d
+java:S1871°"MThis branch's code block is the same as the block for the branch on line 686.(ÃóÏ“
+V
+java:S1161Ï":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
+V
+java:S1161ç":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
+n
+java:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¿ÔÚßûÿÿÿÿ
+K
+java:S2864õ"4Iterate over the "entrySet" instead of the "keySet".(Ä×ğË
+V
+java:S1161¬":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
+T
+java:S1197×"8Move the array designator from the variable to the type.(±Öıÿÿÿÿ
+V
+java:S1161ç":Add the "@Override" annotation above this method signature(Ú€ÿÿüÿÿÿÿ
+V
+java:S1161ø":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
+8
+java:S2129ÿ"!Remove this "Integer" constructor(„”ù
+F
+java:S1874ÿ"/Remove this use of "Integer"; it is deprecated.(„”ù
+Q
+java:S1161…":Add the "@Override" annotation above this method signature(Åî±½
+i
+java:S3776…"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Åî±½
+Q
+java:S1161´":Add the "@Override" annotation above this method signature(Åî±½
+[
+java:S3358Ì"DExtract this nested ternary operation into an independent statement.(§µìû
+Q
+java:S1161×":Add the "@Override" annotation above this method signature(Åî±½
+Q
+java:S1161ã":Add the "@Override" annotation above this method signature(Åî±½
+Q
+java:S1161ï":Add the "@Override" annotation above this method signature(Åî±½
+Q
+java:S1161û":Add the "@Override" annotation above this method signature(Åî±½
+|
+java:S1149·"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÃşĞÜ
+V
+java:S1161©":Add the "@Override" annotation above this method signature(¹Âì†ÿÿÿÿÿ
+V
+java:S1161´":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
+r
+java:S1149Ë"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ü±÷çüÿÿÿÿ
+V
+java:S1161¾":Add the "@Override" annotation above this method signature(¹Âì†ÿÿÿÿÿ
+V
+java:S1161È":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
+Q
+java:S1161Ö":Add the "@Override" annotation above this method signature(Åî±½
+Q
+java:S1161ê":Add the "@Override" annotation above this method signature(Åî±½
+Q
+java:S1161ø":Add the "@Override" annotation above this method signature(Åî±½
+Q
+java:S1161„	":Add the "@Override" annotation above this method signature(‚–¾–
+Q
+java:S1161œ	":Add the "@Override" annotation above this method signature(Åî±½
+V
+java:S1161«	":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
+V
+java:S1161¯	":Add the "@Override" annotation above this method signature(¿ÔÚßûÿÿÿÿ
+Q
+java:S1161À	":Add the "@Override" annotation above this method signature(Åî±½
+R	java:S125å	"<This block of commented-out lines of code should be removed.(§†äÃ
+V
+java:S1161ü	":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
+i
+java:S3776ª
+"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(­å§„
+\
+java:S1124ª
+"EReorder the modifiers to comply with the Java Language Specification.(­å§„
+?	java:S108Ä
+")Either remove or fill this block of code.(‚Üò
+R	java:S125Å
+"<This block of commented-out lines of code should be removed.(âÇâ‰
+J
+java:S1874Õ
+"3Remove this use of "newInstance"; it is deprecated.(ş±¨š
+O	java:S106à
+"9Replace this use of System.out or System.err by a logger.(ŞîÈÆ
+C
+java:S3011š",This accessibility update should be removed.(˜ÂÓ˜

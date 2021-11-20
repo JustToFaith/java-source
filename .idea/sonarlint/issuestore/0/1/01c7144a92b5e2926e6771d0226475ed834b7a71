@@ -1,0 +1,24 @@
+
+7
+java:S2129ö" Remove this "Double" constructor(€»µƒ
+7
+java:S2129‡" Remove this "Double" constructor(÷á¢‘
+†
+java:S1130™"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(ÂÌƒÈıÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'sun.misc.FpUtils'.(¿¬¦×øÿÿÿÿ
+†
+java:S1130ß"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(Ø÷ºáüÿÿÿÿ
+t	java:S115E"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÓüÑêüÿÿÿÿ
+i
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¬ÆÏØ
+
+java:S1130õ"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(ñÀ©¯
+`
+java:S3358ò"DExtract this nested ternary operation into an independent statement.(”äî¥şÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¿‚Œäùÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(‘øÈ„
+Q
+java:S1161":Add the "@Override" annotation above this method signature(…Ø±€

@@ -1,0 +1,19 @@
+
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(­—Ïèúÿÿÿÿ8¥ËÿØå.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(Şıóéùÿÿÿÿ8¥ËÿØå.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âëşÁøÿÿÿÿ
+a
+java:S1128"DRemove this unused import 'java.util.concurrent.ThreadPoolExecutor'.(¦ÿöÊ8°¾ÍÚå.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¥ËÿØå.
+c
+java:S21429"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8üœÙå.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÿúªışÿÿÿÿ8¥ËÿØå.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­—Ïèúÿÿÿÿ8üœÙå.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Şıóéùÿÿÿÿ8üœÙå.
+]	java:S125 "<This block of commented-out lines of code should be removed.(ğ˜üúÿÿÿÿ8Ñ–šÙå.
+e
+java:S22768"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8¥ËÿØå.
+e
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8üœÙå.
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(ÙÆ¤÷úÿÿÿÿ8üœÙå.

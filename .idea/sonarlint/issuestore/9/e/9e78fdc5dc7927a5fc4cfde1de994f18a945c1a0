@@ -1,0 +1,94 @@
+
+P
+java:S1191#"5Use classes from the Java API instead of Sun classes.(ú¸ÿşÿÿÿÿ
+K
+java:S1066å"/Merge this if statement with the enclosing one.(æ›·Ôûÿÿÿÿ
+t	java:S135¬"YReduce the total number of break and continue statements in this loop to use at most one.(ÿ™á¯ÿÿÿÿÿ
+t	java:S135Ù"YReduce the total number of break and continue statements in this loop to use at most one.(ÑÀêâùÿÿÿÿ
+Q
+java:S1128$";Remove this unused import 'sun.util.calendar.CalendarDate'.(ó•ã¦
+M
+java:S1128'"2Remove this unused import 'sun.util.calendar.Era'.(‰…Òùÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ
+N
+java:S1128!"8Remove this unused import 'java.lang.ref.SoftReference'.(ïÇø½
+L
+java:S1133Ä"5Do not forget to remove this deprecated code someday.(Àà´Æ
+Q
+java:S1133Û"5Do not forget to remove this deprecated code someday.(ü‘’åøÿÿÿÿ
+Q
+java:S1133ó"5Do not forget to remove this deprecated code someday.(Œ‘º²ÿÿÿÿÿ
+L
+java:S1133‘"5Do not forget to remove this deprecated code someday.(ªÆù›
+j
+java:S2975˜"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+?	java:S108Ÿ")Either remove or fill this block of code.(Á²ıú
+i	java:S100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú‹Äˆûÿÿÿÿ
+Q
+java:S1133½"5Do not forget to remove this deprecated code someday.(Ú‹Äˆûÿÿÿÿ
+j
+java:S3776Æ"SRefactor this method to reduce its Cognitive Complexity from 169 to the 15 allowed.(ëŸù¤
+L
+java:S1133Æ"5Do not forget to remove this deprecated code someday.(ëŸù¤
+Q
+java:S1119Ô";Refactor the code to remove this label and the need for it.(Ä¬]
+H
+java:S5261ş"1Add explicit curly braces to avoid dangling else.(Óºã¶
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(Ãîó¾ÿÿÿÿÿ
+M
+java:S5261†"1Add explicit curly braces to avoid dangling else.(”²¶úÿÿÿÿ
+M
+java:S5261"1Add explicit curly braces to avoid dangling else.(Ä¥²°ıÿÿÿÿ
+O
+java:S1197ë"8Move the array designator from the variable to the type.(¤ŞËÓ
+\
+java:S1124ë"EReorder the modifiers to comply with the Java Language Specification.(¤ŞËÓ
+T
+java:S1197ô"8Move the array designator from the variable to the type.(õÖ¥Çÿÿÿÿÿ
+a
+java:S1124ô"EReorder the modifiers to comply with the Java Language Specification.(õÖ¥Çÿÿÿÿÿ
+Q
+java:S1133Š"5Do not forget to remove this deprecated code someday.(±»—Áùÿÿÿÿ
+L
+java:S1133"5Do not forget to remove this deprecated code someday.(¾Æòä
+Q
+java:S1133®"5Do not forget to remove this deprecated code someday.(³Éİûÿÿÿÿ
+Q
+java:S1133Á"5Do not forget to remove this deprecated code someday.(Äú÷„üÿÿÿÿ
+Q
+java:S1133ß"5Do not forget to remove this deprecated code someday.(¤Œó¤úÿÿÿÿ
+L
+java:S1133ó"5Do not forget to remove this deprecated code someday.(¶€Õ›
+Q
+java:S1133†"5Do not forget to remove this deprecated code someday.(Ôö¾œûÿÿÿÿ
+L
+java:S1133—"5Do not forget to remove this deprecated code someday.(ùÅ˜‰
+Q
+java:S1133¨"5Do not forget to remove this deprecated code someday.(†üÇÀûÿÿÿÿ
+L
+java:S1133·"5Do not forget to remove this deprecated code someday.(ìÒê†
+Q
+java:S1133È"5Do not forget to remove this deprecated code someday.(Îš¢èøÿÿÿÿ
+Q
+java:S1133Ø"5Do not forget to remove this deprecated code someday.(Ğ™»ßÿÿÿÿÿ
+L
+java:S1133é"5Do not forget to remove this deprecated code someday.(é»Ÿ
+[
+java:S3358Ó"DExtract this nested ternary operation into an independent statement.(Œİå
+R	java:S125…"<This block of commented-out lines of code should be removed.(Ûõ­ú
+Q
+java:S1133¹"5Do not forget to remove this deprecated code someday.(ˆñ»‹ùÿÿÿÿ
+L
+java:S1133Ş"5Do not forget to remove this deprecated code someday.(’ÅĞø
+Q
+java:S1133	"5Do not forget to remove this deprecated code someday.(õ„Íìúÿÿÿÿ
+Z
+java:S3252Û	">Use static access with "java.util.Calendar" for "MILLISECOND".(‘ê¢Œùÿÿÿÿ
+\
+java:S1124š
+"EReorder the modifiers to comply with the Java Language Specification.(ÉÄ”
+B
+java:S1481Í"+Remove this unused "millis" local variable.(±¨­
+>
+java:S1481Ñ"(Remove this unused "wst" local variable.(¢Ñ«Y

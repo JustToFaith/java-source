@@ -1,0 +1,49 @@
+
+W	java:S125Ç"<This block of commented-out lines of code should be removed.(µíŒ²ûÿÿÿÿ
+R	java:S125»"<This block of commented-out lines of code should be removed.(šêÅ˜
+†
+java:S1130¡"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(Œÿ˜Âıÿÿÿÿ
+:
+java:S2129È"Remove this "Long" constructor(ÓêÇ“úÿÿÿÿ
+Q
+java:S1161Í":Add the "@Override" annotation above this method signature(‘øÈ„
+;
+java:S1659§"Declare "y" on a separate line.(¡Ê²‘şÿÿÿÿ
+Q
+java:S1161Ö":Add the "@Override" annotation above this method signature(…Ø±€
+W	java:S125Ï"<This block of commented-out lines of code should be removed.(‘•íÎûÿÿÿÿ
+†
+java:S1130‡"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(†Şÿ¡ıÿÿÿÿ
+=
+java:S1659¶"!Declare "len" on a separate line.(Åƒ¥üÿÿÿÿ
+T
+java:S1197©"8Move the array designator from the variable to the type.(¨òøàüÿÿÿÿ
+[
+java:S3358ä	"DExtract this nested ternary operation into an independent statement.(©¾±±
+R	java:S125á"<This block of commented-out lines of code should be removed.(‘ŞÌÃ
+†
+java:S1130é"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(şÏå«ùÿÿÿÿ
+†
+java:S1130ö"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(°¶¯ÿÿÿÿÿ
+h
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¹›ò4
+?	java:S108¹	")Either remove or fill this block of code.(¼šÎÚ
+
+java:S1130¥"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(ğéĞ™
+Z
+java:S2184­"CCast one of the operands of this subtraction operation to a "long".(ĞûÉ
+_
+java:S2583ª"CChange this condition so that it does not always evaluate to "true"(¯ğ¾Íıÿÿÿÿ
+5
+java:S2129­"Remove this "Long" constructor(ĞûÉ
+>
+java:S2761©""Remove multiple operator prefixes.(¨òøàüÿÿÿÿ
+†
+java:S1130ö"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(Šóù‰øÿÿÿÿ
+i
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¾–ËÀ
+†
+java:S1130¦"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(İë¯ûÿÿÿÿ
+D	java:S108¾	")Either remove or fill this block of code.(é–³öûÿÿÿÿ
+†
+java:S1130Ä"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(Ëç«Ïıÿÿÿÿ

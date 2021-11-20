@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa845716-fd58-4e63-8cd1-30416d673e9f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/lang/StringBuilder.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/lang/ClassLoader.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/util/concurrent/atomic/AtomicInteger.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/lang/Class.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/lang/Long.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/math/BigDecimal.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/lang/Process.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/util/concurrent/CountDownLatch.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/lang/Character.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/Reflection.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/lang/AbstractStringBuilder.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/lang/Object.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/lang/ThreadLocal.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/lang/Boolean.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/util/DualPivotQuicksort.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/lang/Integer.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/util/HashMap.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/util/concurrent/Semaphore.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/lang/Byte.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/lang/StringBuffer.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/lang/Float.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/util/concurrent/CyclicBarrier.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/lang/Thread.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/lang/String.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/util/concurrent/ThreadPoolExecutor.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/util/concurrent/locks/AbstractQueuedLongSynchronizer.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/util/concurrent/locks/Condition.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/util/concurrent/locks/ReentrantLock.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/lang/Double.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/util/concurrent/locks/ReentrantReadWriteLock.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/lang/Short.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cn/personalweb/source/java/util/PriorityQueue.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1kmSWq7zP9VwqHhkfhekA6bgX40" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.31494254" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RunManager" selected="应用程序.DeathLockDemo">
+    <configuration name="DeathLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.personalweb.test.Thread.DeathLockDemo" />
+      <module name="JavaSourceLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.personalweb.test.Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExchangePrintNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.personalweb.test.juc.example.ExchangePrintNum" />
+      <module name="JavaSourceLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.personalweb.test.juc.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.personalweb.test.Test" />
+      <module name="JavaSourceLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.personalweb.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCollestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.personalweb.test.TestCollestion" />
+      <module name="JavaSourceLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.personalweb.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.personalweb.test.TestThread" />
+      <module name="JavaSourceLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.personalweb.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.DeathLockDemo" />
+      <item itemvalue="应用程序.ExchangePrintNum" />
+      <item itemvalue="应用程序.Test" />
+      <item itemvalue="应用程序.TestCollestion" />
+      <item itemvalue="应用程序.TestThread" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="SSH_CONFIG" />
+    <option name="myConnectionId" value="root@47.100.59.134:22 password" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa845716-fd58-4e63-8cd1-30416d673e9f" name="Default Changelist" comment="" />
+      <created>1606304310213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606304310213</updated>
+      <workItem from="1606304311851" duration="22910000" />
+      <workItem from="1606531665073" duration="5000" />
+      <workItem from="1606539363719" duration="732000" />
+      <workItem from="1606565949345" duration="765000" />
+      <workItem from="1606576360514" duration="1178000" />
+      <workItem from="1606660782140" duration="3601000" />
+      <workItem from="1606749887032" duration="829000" />
+      <workItem from="1606831427459" duration="11459000" />
+      <workItem from="1607166381486" duration="1543000" />
+      <workItem from="1607432044500" duration="26906000" />
+      <workItem from="1607782227135" duration="2200000" />
+      <workItem from="1607839317900" duration="11086000" />
+      <workItem from="1607913059755" duration="3475000" />
+      <workItem from="1608000144462" duration="3437000" />
+      <workItem from="1608087665227" duration="429000" />
+      <workItem from="1608088310231" duration="1217000" />
+      <workItem from="1608095193589" duration="3359000" />
+      <workItem from="1608124870786" duration="5053000" />
+      <workItem from="1608219518559" duration="23232000" />
+      <workItem from="1608519805263" duration="5297000" />
+      <workItem from="1608716728305" duration="16000000" />
+      <workItem from="1609406426977" duration="102000" />
+      <workItem from="1609406623033" duration="22000" />
+      <workItem from="1612177683557" duration="2023000" />
+      <workItem from="1612234839607" duration="1658000" />
+      <workItem from="1612342675963" duration="8174000" />
+      <workItem from="1613009744225" duration="1758000" />
+      <workItem from="1613463298752" duration="1266000" />
+      <workItem from="1613569573440" duration="287000" />
+      <workItem from="1613739853484" duration="759000" />
+      <workItem from="1613917463031" duration="323000" />
+      <workItem from="1613980781485" duration="7301000" />
+      <workItem from="1614134929315" duration="826000" />
+      <workItem from="1615289502996" duration="5382000" />
+      <workItem from="1615295223353" duration="2572000" />
+      <workItem from="1615448727517" duration="4537000" />
+      <workItem from="1615608590732" duration="3544000" />
+      <workItem from="1615622252360" duration="4000" />
+      <workItem from="1615622283439" duration="13241000" />
+      <workItem from="1615705448540" duration="633000" />
+      <workItem from="1615979585641" duration="412000" />
+      <workItem from="1616119013460" duration="4702000" />
+      <workItem from="1616406792894" duration="1043000" />
+      <workItem from="1616647807072" duration="1228000" />
+      <workItem from="1616658508018" duration="23000" />
+      <workItem from="1617195460624" duration="3498000" />
+      <workItem from="1618367242747" duration="1160000" />
+      <workItem from="1618384072903" duration="613000" />
+      <workItem from="1618998478271" duration="176000" />
+      <workItem from="1626103676585" duration="1285000" />
+      <workItem from="1630123153787" duration="820000" />
+      <workItem from="1637415374602" duration="1045000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/personalweb/test/TestCollestion.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/personalweb/test/list/TestArrayList.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/personalweb/test/list/AutoList.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/personalweb/test/juc/example/ExchangePrintNum.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/personalweb/test/Test.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.OutOfMemoryError" package="java.lang" />
+          <option name="timeStamp" value="7" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.Throwable" package="java.lang" />
+          <option name="timeStamp" value="19" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/cn/personalweb/source/java/util/concurrent/RejectedExecutionHandler.java</url>
+          <line>60</line>
+          <properties class="java.util.concurrent.RejectedExecutionHandler" method="rejectedExecution">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.Class" memberName="cachedConstructor" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

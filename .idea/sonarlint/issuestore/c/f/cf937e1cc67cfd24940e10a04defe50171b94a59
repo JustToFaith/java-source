@@ -1,0 +1,17 @@
+
+U
+java:S1128"@Remove this unused import 'java.util.function.ToDoubleFunction'.(÷½½
+S
+java:S1128"=Remove this unused import 'java.util.function.ToIntFunction'.(§÷Ù
+S
+java:S1128 ">Remove this unused import 'java.util.function.ToLongFunction'.(å¼úx
+N
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Íž
+Y
+java:S1128">Remove this unused import 'java.util.function.BinaryOperator'.(Žžº÷ùÿÿÿÿ
+<
+java:S1948D"&Make "real" transient or serializable.(åŒÿØ
+[
+java:S1124@"EReorder the modifiers to comply with the Java Language Specification.(®Ãà¹
+Z
+java:S3358O"DExtract this nested ternary operation into an independent statement.(ÇÓˆ™

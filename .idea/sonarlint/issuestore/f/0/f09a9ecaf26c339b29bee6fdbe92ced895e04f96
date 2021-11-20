@@ -1,0 +1,54 @@
+
+;
+java:S1659¿"Declare "m" on a separate line.(¶ó€‹ıÿÿÿÿ
+p
+java:S3012ã"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Š«á
+i
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(õìĞ”
+;
+java:S1659¿"Declare "j" on a separate line.(¶ó€‹ıÿÿÿÿ
+J
+java:S1121Ò".Extract the assignment out of this expression.(ÁÜ¹Ùùÿÿÿÿ
+E
+java:S1121û".Extract the assignment out of this expression.(œ‘÷ˆ
+o	java:S135ß"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+J
+java:S1121Â".Extract the assignment out of this expression.(–ÜÊŠûÿÿÿÿ
+;
+java:S1659è"Declare "j" on a separate line.(¶ó€‹ıÿÿÿÿ
+P
+java:S1191x"5Use classes from the Java API instead of Sun classes.(¦ïæüÿÿÿÿ
+;
+java:S1659è"Declare "m" on a separate line.(¶ó€‹ıÿÿÿÿ
+;
+java:S1659·"Declare "n" on a separate line.(¸×œÿÿÿÿÿ
+J
+java:S1121¡".Extract the assignment out of this expression.(¶Şš§üÿÿÿÿ
+;
+java:S1659à"Declare "a" on a separate line.(¸×œÿÿÿÿÿ
+J
+java:S1121ı".Extract the assignment out of this expression.(›˜‘óøÿÿÿÿ
+;
+java:S1659à"Declare "n" on a separate line.(¸×œÿÿÿÿÿ
+;
+java:S1659à"Declare "v" on a separate line.(¸×œÿÿÿÿÿ
+p	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãñÁÒ
+;
+java:S1659·"Declare "a" on a separate line.(¸×œÿÿÿÿÿ
+J
+java:S1121ë".Extract the assignment out of this expression.(–ÜÊŠûÿÿÿÿ
+p
+java:S3012‡"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Š«á
+
+java:S1845‹"jRename field "CELLSBUSY" to prevent any misunderstanding/clash with field "cellsBusy" defined on line 159.(°‚¿‚
+B
+java:S3077”"&Use an "AtomicReferenceArray" instead.(Üò”°ùÿÿÿÿ
+w
+java:S1845Š"`Rename field "BASE" to prevent any misunderstanding/clash with field "base" defined on line 154.(©´›
+\	java:S112™"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+h
+java:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(àãçn
+o	java:S135¶"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+\	java:S112‰"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+;
+java:S1659·"Declare "v" on a separate line.(¸×œÿÿÿÿÿ

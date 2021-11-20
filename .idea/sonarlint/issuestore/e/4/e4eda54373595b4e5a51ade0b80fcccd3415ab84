@@ -1,0 +1,282 @@
+
+q
+java:S1192Ë"SDefine a constant instead of duplicating this literal "toKey out of range" 4 times.(¹›ñÿ8 Ç˜â.
+s
+java:S1192É"UDefine a constant instead of duplicating this literal "fromKey out of range" 4 times.(ÑÃß8 Ç˜â.
+b
+java:S2259…"?A "NullPointerException" could be thrown; "s" is nullable here.(ë±Âÿÿÿÿÿ8 Ç˜â.
+Q
+java:S1121¹".Extract the assignment out of this expression.(üÑ±ÿÿÿÿÿ8 Ç˜â.
+Q
+java:S1121ù".Extract the assignment out of this expression.(é·©½üÿÿÿÿ8 Ç˜â.
+Q
+java:S1121‚".Extract the assignment out of this expression.(±Âõİıÿÿÿÿ8 Ç˜â.
+Q
+java:S1121À".Extract the assignment out of this expression.(îÄÎìüÿÿÿÿ8 Ç˜â.
+L
+java:S1121ä".Extract the assignment out of this expression.(ëôØ±8 Ç˜â.
+L
+java:S1121ş".Extract the assignment out of this expression.(·òÁı8 Ç˜â.
+L
+java:S1121¹".Extract the assignment out of this expression.(ëôØ±8 Ç˜â.
+L
+java:S1121Ó".Extract the assignment out of this expression.(¿¬íÑ8 Ç˜â.
+Q
+java:S1121¬".Extract the assignment out of this expression.(¾Èùÿÿÿÿ8 Ç˜â.
+Q
+java:S1121¬".Extract the assignment out of this expression.(¾Èùÿÿÿÿ8 Ç˜â.
+Q
+java:S1121ú".Extract the assignment out of this expression.(¾Èùÿÿÿÿ8 Ç˜â.
+Q
+java:S1121ú".Extract the assignment out of this expression.(¾Èùÿÿÿÿ8 Ç˜â.
+Q
+java:S1121Ã".Extract the assignment out of this expression.(¾Èùÿÿÿÿ8 Ç˜â.
+Q
+java:S1121Ã".Extract the assignment out of this expression.(¾Èùÿÿÿÿ8 Ç˜â.
+Q
+java:S1121‹".Extract the assignment out of this expression.(¾Èùÿÿÿÿ8 Ç˜â.
+Q
+java:S1121‹".Extract the assignment out of this expression.(¾Èùÿÿÿÿ8 Ç˜â.
+H
+java:S2160o"+Override the "equals" method in this class.(Ïİá‡8 Ç˜â.
+c
+java:S2147Ê"ECombine this catch with the one at line 201, which has the same body.(åãÃÔ8 Ç˜â.
+E	java:S108É")Either remove or fill this block of code.(æ¶…8 Ç˜â.
+F	java:S108Ê")Either remove or fill this block of code.(åãÃÔ8 Ç˜â.
+c
+java:S2147Â"ECombine this catch with the one at line 321, which has the same body.(åãÃÔ8 Ç˜â.
+E	java:S108Á")Either remove or fill this block of code.(æ¶…8 Ç˜â.
+F	java:S108Â")Either remove or fill this block of code.(åãÃÔ8 Ç˜â.
+p
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Á¯Ñœ8 Ç˜â.
+u
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ş†À’üÿÿÿÿ8 Ç˜â.
+u
+java:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÜŒ©¼ûÿÿÿÿ8 Ç˜â.
+u
+java:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Éßùşÿÿÿÿ8 Ç˜â.
+p
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(µ„Ô›8 Ç˜â.
+q
+java:S2975ô"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ8 Ç˜â.
+c
+java:S2147ˆ"ECombine this catch with the one at line 647, which has the same body.(åãÃÔ8 Ç˜â.
+E	java:S108‡")Either remove or fill this block of code.(æ¶…8 Ç˜â.
+F	java:S108ˆ")Either remove or fill this block of code.(åãÃÔ8 Ç˜â.
+]
+java:S1161":Add the "@Override" annotation above this method signature(­­¬Îùÿÿÿÿ8 Ç˜â.
+]
+java:S1161’":Add the "@Override" annotation above this method signature(İî‹âùÿÿÿÿ8 Ç˜â.
+]
+java:S1161œ":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ8 Ç˜â.
+]
+java:S1161 ":Add the "@Override" annotation above this method signature(ù¢İ­ÿÿÿÿÿ8 Ç˜â.
+v
+java:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆÄço8 Ç˜â.
+X
+java:S1161È":Add the "@Override" annotation above this method signature(¶•ãü8 Ç˜â.
+w
+java:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(´îğ 8 Ç˜â.
+N
+java:S2160İ"+Override the "equals" method in this class.(Ò‰µÍúÿÿÿÿ8 Ç˜â.
+]
+java:S1161Ÿ	":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ8 Ç˜â.
+]
+java:S1161Ì	":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ8 Ç˜â.
+l
+java:S2272Ş	"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(±Ê¨ó8 Ç˜â.
+l
+java:S2272ç	"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(Èç•Ê8 Ç˜â.
+l
+java:S2272ğ	"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ˆ™³8 Ç˜â.
+l
+java:S2272ù	"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ˆ™³8 Ç˜â.
+]
+java:S1161ü	":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ8 Ç˜â.
+I
+java:S2160¿
+"+Override the "equals" method in this class.(Ò¬”8 Ç˜â.
+C
+java:S1659Ï
+" Declare "hi" on a separate line.(êôŒ«ıÿÿÿÿ8 Ç˜â.
+A
+java:S1659Ğ
+"#Declare "toEnd" on a separate line.(½·ŒÈ8 Ç˜â.
+G
+java:S1659Ñ
+")Declare "hiInclusive" on a separate line.(ºŸÿ’8 Ç˜â.
+F
+java:S1948Å
+"#Make "m" transient or serializable.(ˆˆŠİÿÿÿÿÿ8 Ç˜â.
+G
+java:S1948Ï
+"$Make "lo" transient or serializable.(êôŒ«ıÿÿÿÿ8 Ç˜â.
+G
+java:S1948Ï
+"$Make "hi" transient or serializable.(êôŒ«ıÿÿÿÿ8 Ç˜â.
+P
+java:S2388ß"-Prefix this call to "entrySet" with "super.".(Ä†üèùÿÿÿÿ8 Ç˜â.
+K
+java:S2388ã"-Prefix this call to "entrySet" with "super.".(¶º«ä8 Ç˜â.
+U
+java:S2388È"2Prefix this call to "descendingMap" with "super.".(Ó¾Üšûÿÿÿÿ8 Ç˜â.
+I
+java:S2388Ì"+Prefix this call to "subMap" with "super.".(Ô¤¢8 Ç˜â.
+O
+java:S2388Ğ",Prefix this call to "headMap" with "super.".(†â˜èüÿÿÿÿ8 Ç˜â.
+O
+java:S2388Ô",Prefix this call to "tailMap" with "super.".(’‰î´üÿÿÿÿ8 Ç˜â.
+g
+java:S3358“"DExtract this nested ternary operation into an independent statement.(™›Ö¯úÿÿÿÿ8 Ç˜â.
+b
+java:S3358›"DExtract this nested ternary operation into an independent statement.(ÎŒã´8 Ç˜â.
+b
+java:S3358¾"DExtract this nested ternary operation into an independent statement.(ş±—š8 Ç˜â.
+b
+java:S3358Å"DExtract this nested ternary operation into an independent statement.(ËÇ‘‘8 Ç˜â.
+I
+java:S2160Ù"+Override the "equals" method in this class.( ¦¯8 Ç˜â.
+N
+java:S2065Ú"0Remove the "transient" modifier from this field.(º‰¨Ä8 Ç˜â.
+N
+java:S2065Ú"0Remove the "transient" modifier from this field.(º‰¨Ä8 Ç˜â.
+H
+java:S1659Ú"*Declare "sizeModCount" on a separate line.(º‰¨Ä8 Ç˜â.
+l
+java:S2272Ö"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(±Ê¨ó8 Ç˜â.
+]
+java:S1161Ù":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ8 Ç˜â.
+l
+java:S2272ä"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(±Ê¨ó8 Ç˜â.
+]
+java:S1161ç":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ8 Ç˜â.
+l
+java:S2272ó"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ˆ™³8 Ç˜â.
+]
+java:S1161ö":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ8 Ç˜â.
+X
+java:S1161ü":Add the "@Override" annotation above this method signature(÷ƒµ—8 Ç˜â.
+]
+java:S1161":Add the "@Override" annotation above this method signature(üğÇÂùÿÿÿÿ8 Ç˜â.
+l
+java:S2272™"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ˆ™³8 Ç˜â.
+]
+java:S1161œ":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ8 Ç˜â.
+X
+java:S1161¢":Add the "@Override" annotation above this method signature(÷ƒµ—8 Ç˜â.
+I
+java:S2160Œ"+Override the "equals" method in this class.(ŞÙÑ’8 Ç˜â.
+Q
+java:S1948”"3Make "reverseComparator" transient or serializable.(–éˆÇ8 Ç˜â.
+M
+java:S3985ç"*Remove this unused private "SubMap" class.(å™·œıÿÿÿÿ8 Ç˜â.
+N
+java:S2160ç"+Override the "equals" method in this class.(å™·œıÿÿÿÿ8 Ç˜â.
+F
+java:S1659ê"#Declare "toEnd" on a separate line.(¸Æ¬åıÿÿÿÿ8 Ç˜â.
+A
+java:S1659ë"#Declare "toKey" on a separate line.(õÀ¡8 Ç˜â.
+G
+java:S1948ë")Make "fromKey" transient or serializable.(õÀ¡8 Ç˜â.
+E
+java:S1948ë"'Make "toKey" transient or serializable.(õÀ¡8 Ç˜â.
+p
+java:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¨¢Á©8 Ç˜â.
+p
+java:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(´Öƒı8 Ç˜â.
+u
+java:S3776®"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(©¼¬øÿÿÿÿ8 Ç˜â.
+\
+java:S1117”"9Rename "size" which hides the field declared at line 128.(Ó•š•øÿÿÿÿ8 Ç˜â.
+d
+java:S2147¤"FCombine this catch with the one at line 2467, which has the same body.(åãÃÔ8 Ç˜â.
+E	java:S108£")Either remove or fill this block of code.(æ¶…8 Ç˜â.
+F	java:S108¤")Either remove or fill this block of code.(åãÃÔ8 Ç˜â.
+w
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(şœ“ÿ8 Ç˜â.
+|
+java:S2293Ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(³•ó‘úÿÿÿÿ8 Ç˜â.
+=
+java:S1659ƒ"Declare "t" on a separate line.(Í¬Ù8 Ç˜â.
+B
+java:S1659¢"Declare "f" on a separate line.(µ„Ìûÿÿÿÿ8 Ç˜â.
+=
+java:S1659£"Declare "s" on a separate line.(Î˜›Ï8 Ç˜â.
+g
+java:S3358¤"DExtract this nested ternary operation into an independent statement.(´Á‘ñüÿÿÿÿ8 Ç˜â.
+g
+java:S3358¥"DExtract this nested ternary operation into an independent statement.(¾€¾Äÿÿÿÿÿ8 Ç˜â.
+g
+java:S3358¦"DExtract this nested ternary operation into an independent statement.(”Ë–àøÿÿÿÿ8 Ç˜â.
+X
+java:S1161±":Add the "@Override" annotation above this method signature(÷ƒµ—8 Ç˜â.
+p
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(÷ƒµ—8 Ç˜â.
+B
+java:S1659¶"Declare "e" on a separate line.(ÄºŸ¬úÿÿÿÿ8 Ç˜â.
+B
+java:S1659¶"Declare "p" on a separate line.(ÄºŸ¬úÿÿÿÿ8 Ç˜â.
+C
+java:S1659¶" Declare "pl" on a separate line.(ÄºŸ¬úÿÿÿÿ8 Ç˜â.
+]
+java:S1161İ":Add the "@Override" annotation above this method signature(üğÇÂùÿÿÿÿ8 Ç˜â.
+B
+java:S1659ğ"Declare "f" on a separate line.(µ„Ìûÿÿÿÿ8 Ç˜â.
+=
+java:S1659ñ"Declare "s" on a separate line.(Î˜›Ï8 Ç˜â.
+g
+java:S3358ò"DExtract this nested ternary operation into an independent statement.(´Á‘ñüÿÿÿÿ8 Ç˜â.
+a
+java:S3358ó"DExtract this nested ternary operation into an independent statement.(ÅÒÂ|8 Ç˜â.
+g
+java:S3358ô"DExtract this nested ternary operation into an independent statement.(şËñÜÿÿÿÿÿ8 Ç˜â.
+X
+java:S1161ÿ":Add the "@Override" annotation above this method signature(÷ƒµ—8 Ç˜â.
+p
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(÷ƒµ—8 Ç˜â.
+=
+java:S1659„"Declare "e" on a separate line.(µ²òÀ8 Ç˜â.
+=
+java:S1659„"Declare "p" on a separate line.(µ²òÀ8 Ç˜â.
+>
+java:S1659„" Declare "pr" on a separate line.(µ²òÀ8 Ç˜â.
+B
+java:S1659¹"Declare "f" on a separate line.(µ„Ìûÿÿÿÿ8 Ç˜â.
+=
+java:S1659º"Declare "s" on a separate line.(Î˜›Ï8 Ç˜â.
+g
+java:S3358»"DExtract this nested ternary operation into an independent statement.(´Á‘ñüÿÿÿÿ8 Ç˜â.
+g
+java:S3358¼"DExtract this nested ternary operation into an independent statement.(¾€¾Äÿÿÿÿÿ8 Ç˜â.
+g
+java:S3358½"DExtract this nested ternary operation into an independent statement.(”Ë–àøÿÿÿÿ8 Ç˜â.
+X
+java:S1161È":Add the "@Override" annotation above this method signature(ğ¸¯¡8 Ç˜â.
+p
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ğ¸¯¡8 Ç˜â.
+B
+java:S1659Í"Declare "e" on a separate line.(ÄºŸ¬úÿÿÿÿ8 Ç˜â.
+B
+java:S1659Í"Declare "p" on a separate line.(ÄºŸ¬úÿÿÿÿ8 Ç˜â.
+C
+java:S1659Í" Declare "pl" on a separate line.(ÄºŸ¬úÿÿÿÿ8 Ç˜â.
+B
+java:S1659"Declare "f" on a separate line.(µ„Ìûÿÿÿÿ8 Ç˜â.
+=
+java:S1659‚"Declare "s" on a separate line.(Î˜›Ï8 Ç˜â.
+g
+java:S3358ƒ"DExtract this nested ternary operation into an independent statement.(´Á‘ñüÿÿÿÿ8 Ç˜â.
+g
+java:S3358„"DExtract this nested ternary operation into an independent statement.(¾€¾Äÿÿÿÿÿ8 Ç˜â.
+g
+java:S3358…"DExtract this nested ternary operation into an independent statement.(”Ë–àøÿÿÿÿ8 Ç˜â.
+]
+java:S1161":Add the "@Override" annotation above this method signature(ˆ¶÷ºşÿÿÿÿ8 Ç˜â.
+u
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ˆ¶÷ºşÿÿÿÿ8 Ç˜â.
+B
+java:S1659•"Declare "e" on a separate line.(ÄºŸ¬úÿÿÿÿ8 Ç˜â.
+B
+java:S1659•"Declare "p" on a separate line.(ÄºŸ¬úÿÿÿÿ8 Ç˜â.
+C
+java:S1659•" Declare "pl" on a separate line.(ÄºŸ¬úÿÿÿÿ8 Ç˜â.

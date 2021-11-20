@@ -1,0 +1,13 @@
+
+`	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(¨ßÕÂùÿÿÿÿ
+>
+java:S1659î""Declare "next" on a separate line.(÷Žß–ùÿÿÿÿ
+K
+java:S1191'"5Use classes from the Java API instead of Sun classes.(éª‚€
+>
+java:S1659ž""Declare "next" on a separate line.(÷Žß–ùÿÿÿÿ
+>
+java:S1659†""Declare "next" on a separate line.(÷Žß–ùÿÿÿÿ
+o	java:S115;"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãñÁÒ
+>
+java:S1659Û""Declare "next" on a separate line.(÷Žß–ùÿÿÿÿ

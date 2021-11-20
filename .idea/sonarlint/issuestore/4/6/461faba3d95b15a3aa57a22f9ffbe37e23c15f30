@@ -1,0 +1,37 @@
+
+K
+java:S1191!"5Use classes from the Java API instead of Sun classes.(¯©ÆŞ
+n	java:S127Û"XRefactor the code in order to not assign to this loop counter from within the loop body.(·ò¶ì
+n	java:S127İ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÿŸ
+q
+java:S1149\"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÁÁÜÒùÿÿÿÿ
+P
+java:S1118/":Add a private constructor to hide the implicit public one.(ªË™—
+`
+java:S11242"EReorder the modifiers to comply with the Java Language Specification.(ı†Çÿÿÿÿÿ
+[
+java:S11243"EReorder the modifiers to comply with the Java Language Specification.(ÚÓÏæ
+`
+java:S11244"EReorder the modifiers to comply with the Java Language Specification.(å›Àëşÿÿÿÿ
+[
+java:S11245"EReorder the modifiers to comply with the Java Language Specification.(°«ó
+[
+java:S11246"EReorder the modifiers to comply with the Java Language Specification.(¥„Â°
+[
+java:S11249"EReorder the modifiers to comply with the Java Language Specification.(Ü¶ş
+7
+java:S2129a"!Remove this "Integer" constructor(÷Ç²Ï
+E
+java:S1874a"/Remove this use of "Integer"; it is deprecated.(÷Ç²Ï
+t
+java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼Ôêùÿÿÿÿ
+n
+java:S3776–"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‡¢ğÁúÿÿÿÿ
+=
+java:S2129—"!Remove this "Integer" constructor(ôÿÕ£şÿÿÿÿ
+K
+java:S1874—"/Remove this use of "Integer"; it is deprecated.(ôÿÕ£şÿÿÿÿ
+n
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Åäòïûÿÿÿÿ
+]
+java:S1126–"AReplace this if-then-else statement by a single return statement.(ŞÒÊƒùÿÿÿÿ

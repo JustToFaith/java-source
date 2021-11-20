@@ -1,0 +1,15 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(ÆÓ¯¨üÿÿÿÿ8ŠÃŒ²ç.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„úµ¯şÿÿÿÿ8„ÁŸ±ç.
+U
+java:S11175"8Rename "lock" which hides the field declared at line 33.(¹¶àã8–Š‡±ç.
+U
+java:S1117C"8Rename "lock" which hides the field declared at line 33.(º·úã8É±¼±ç.
+[
+java:S3516Z"9Refactor this method to not always return the same value.(Àü¨æúÿÿÿÿ8Å±œ±ç.
+M
+java:S2065!"0Remove the "transient" modifier from this field.(ç¿š—8–Š‡±ç.
+j
+java:S1128"NRemove this unused import 'java.util.concurrent.locks.ReentrantReadWriteLock'.(¢×¿8É±¼±ç.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(™»î¤8²ç.
